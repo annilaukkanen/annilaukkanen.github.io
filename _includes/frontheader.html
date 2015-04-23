@@ -1,0 +1,34 @@
+	<div class="navbar-spacer"></div>
+    <div class="container nav">
+        <a id="logo-front" class="navbar-item-left" href="#"><img src="images/Anni_Webpage_logo_compressed.png" alt="{{ site.name }}"></a>
+      <a href="#" id="triggerbutton">
+        <img src="../../images/button.png" alt="navigation">
+      </a>
+      <ul class="navbar-list">
+		<!--
+        <li class="navbar-item"><a class="navbar-link" href="#examples">Contact</a></li>
+        <li class="navbar-item"><a class="navbar-link" href="#examples">Pictures</a></li>
+        <li class="navbar-item"><a class="navbar-link" href="#examples">Listen</a></li>
+        <li class="navbar-item"><a class="navbar-link" href="#examples">Biography</a></li>
+        <li class="navbar-item"><a class="navbar-link" href="#intro">News</a></li>
+		-->
+		{% assign sorted_pages = site.pages | sort:"name" %}
+		{% for node in sorted_pages %}
+		{% if node.lang == page.lang %}
+		{% if node.id != "front" %}
+		  {% if node.url == page.url %}
+        		<li class="navbar-item active"><a class="navbar-link" href=".{{ node.url }}">{{ node.title }}</a></li>
+		  {% else %}
+        		<li class="navbar-item"><a class="navbar-link" href=".{{ node.url }}">{{ node.title }}</a></li>
+		  {% endif %}
+		{% endif %}
+		{% endif %}
+		{% endfor%}
+          <li class="lang navbar-item">
+              <p class="navbar-link lang-text">lang</p>
+              <a class="navbar-link lang-link" href="fi/bio">Suomi</a>
+              <a class="navbar-link lang-link" href="en/bio">English</a>
+              <a class="navbar-link lang-link" href="de/bio">Deutsch</a>
+          </li>
+      </ul>
+    </div>

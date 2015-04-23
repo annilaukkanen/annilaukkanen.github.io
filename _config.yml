@@ -1,0 +1,10 @@
+# Site settings
+title: "Anni Laukkanen, pianist"
+description: "Anni Laukkanen, pianist"
+baseurl: ""
+url: "http://annilaukkanen.fi/"
+name: "Anni Laukkanen"
+
+# Build settings
+markdown: kramdown
+permalink: pretty

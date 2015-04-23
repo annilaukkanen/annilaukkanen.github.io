@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html>
+
+	<head>
+
+	  <!-- Basic Page Needs
+	  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+	  <meta charset="utf-8">
+	  <title>{{ site.title }}</title>
+	  <meta name="description" content="">
+	  <meta name="author" content="">
+
+	  <!-- Mobile Specific Metas
+	  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+	  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+	  <!-- FONT
+	  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+	  <link href="//fonts.googleapis.com/css?family=Raleway:400,300,600" rel="stylesheet" type="text/css">
+
+	  <!-- CSS
+	  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+	  <link rel="stylesheet" href="../../css/normalize.css">
+	  <link rel="stylesheet" href="../../css/skeleton.css">
+      <link rel="stylesheet" href="../../css/custom.css">
+	  <link rel="stylesheet" href="../css/normalize.css">
+	  <link rel="stylesheet" href="../css/skeleton.css">
+      <link rel="stylesheet" href="../css/custom.css">
+
+	  <!-- TODO tmp fix for frontpage when in subdir. use absolute? -->
+	  <link rel="stylesheet" href="css/normalize.css">
+	  <link rel="stylesheet" href="css/skeleton.css">
+      <link rel="stylesheet" href="css/custom.css">
+
+	  <!-- Favicon
+	  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+	  <link rel="icon" type="image/png" href="images/favicon.png">
+
+	</head>
+
+    <body id="{{ page.id }}">
+
+
+	<!-- TESTING
+	<img src="../../images/anni-363_1024_testing.jpg" class="bg"/>
+	<div id="bg">
+		<img src="../../images/anni-363_1024_testing.jpg"/>
+	</div>
+	-->
+
+    {% if page.title == "index" %}
+    	{% include frontheader.html %}
+    {% else %}
+    	{% include header.html %}
+
+		<div class="container" id="content">
+			<div class="row">
+				<!--<div class="one-half column offset-by-one-half">-->
+				<div>
+    				{% if page.id == "bio" %}
+					<!--
+						<div class="five columns">
+							<img src="../../images/anni_laukkanen-94.jpg" style="width: 100%;margin-top:80px;" class="picture"/>
+						</div>
+						-->
+						<div class="one-half column offset-by-six">
+						{{ title }}
+						{{ content }}
+						</div>
+    				{% elsif page.id == "contact" %}
+						<!--
+						<div class="five columns">
+							<img src="../../images/hair.jpg" style="width: 100%;margin-top:0px;" class="picture"/>
+						</div>
+						<div class="one-half column offset-by-one">
+						-->
+						<div class="one-half column offset-by-six">
+						{{ title }}
+						{{ content }}
+						</div>
+    				{% elsif page.id == "FOOpictures" %}
+							{{ title }}
+							{{ content }}
+    				{% else %}
+						<div class="eight columns offset-by-two">
+							{{ title }}
+							{{ content }}
+						</div>
+    				{% endif  %}
+				</div>
+			</div>
+		</div>
+    {% endif  %}
+
+    {% include footer.html %}
+
+    </body>
+</html>

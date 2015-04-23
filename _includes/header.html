@@ -1,0 +1,71 @@
+{% assign sorted_pages = site.pages | sort:"name" %}
+	<div class="navbar-spacer"></div>
+    <div class="container nav">
+  		{% for node in sorted_pages %}
+  		{% if node.url == page.url %}
+  		{% if node.id == "bio" %}
+        <a id="logo" class="navbar-item-left" href="../../"><img src="../../images/Anni_Webpage_logo_compressed_white.png" alt="{{ site.name }}"></a>
+  		{% else %}
+        <a id="logo" class="navbar-item-left" href="../../"><img src="../../images/Anni_Webpage_logo_compressed.png" alt="{{ site.name }}"></a>
+  		{% endif %}
+  		{% endif %}
+  		{% endfor%}
+      <div id="triggerarea">
+        <a href="#" id="triggerbutton">
+          <img src="../../images/button.png" alt="navigation">
+        </a>
+        <ul class="navbar-list">
+  		<!--
+          <li class="navbar-item"><a class="navbar-link" href="#examples">Contact</a></li>
+          <li class="navbar-item"><a class="navbar-link" href="#examples">Pictures</a></li>
+          <li class="navbar-item"><a class="navbar-link" href="#examples">Listen</a></li>
+          <li class="navbar-item"><a class="navbar-link" href="#examples">Biography</a></li>
+          <li class="navbar-item"><a class="navbar-link" href="#intro">News</a></li>
+  		-->
+  		{% for node in sorted_pages %}
+  		{% if node.lang == page.lang %}
+  		{% if node.id != "front" %}
+  		  {% if node.url == page.url %}
+          		<li class="navbar-item active"><a class="navbar-link" href="../..{{ node.url }}">{{ node.title }}</a></li>
+  		  {% else %}
+          		<li class="navbar-item"><a class="navbar-link" href="../..{{ node.url }}">{{ node.title }}</a></li>
+  		  {% endif %}
+  		{% endif %}
+  		{% endif %}
+  		{% endfor%}
+            <li class="lang navbar-item">
+
+		{% comment %} TODO FIX THIS MADNESS {% endcomment %}
+
+  		{% for node in sorted_pages %}
+  		{% if node.id == page.id %}
+  		{% if node.lang == "fi" %}
+			<a class="navbar-link lang-link" href="../..{{ node.url }}">fi</a>
+  		{% endif %}
+  		{% endif %}
+  		{% endfor%}
+  		{% for node in sorted_pages %}
+  		{% if node.id == page.id %}
+  		{% if node.lang == "en" %}
+                <a class="navbar-link lang-link" href="../..{{ node.url }}">en</a>
+  		{% endif %}
+  		{% endif %}
+  		{% endfor%}
+  		{% for node in sorted_pages %}
+  		{% if node.id == page.id %}
+  		{% if node.lang == "de" %}
+                <a class="navbar-link lang-link" href="../..{{ node.url }}">de</a>
+  		{% endif %}
+  		{% endif %}
+  		{% endfor%}
+            </li>
+        </ul>
+      </div>
+    </div>
+<!--
+          <div class="lang">
+              <a href="../../fi{{ page.permalink }}">Suomi</a>
+              <a href="../../en{{ page.permalink }}">English</a>
+              <a href="../../de{{ page.permalink }}">Deutsch</a>
+          </div>
+		  -->

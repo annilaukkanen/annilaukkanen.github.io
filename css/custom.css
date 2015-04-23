@@ -1,0 +1,213 @@
+.navbar {
+  display: none; }
+
+/* Larger than tablet */
+/*
+@media (min-width: 750px) {
+*/
+
+#triggerbutton {
+	display: none;
+}
+#triggerbutton:focus {
+    pointer-events: none;
+	/* enables close on second click. Doesn't work on iOS? */
+}
+a.lang-link {
+	//text-transform: lowercase;
+}
+#logo-front > img,
+#logo > img {
+	height: 90px;
+}
+
+@media (min-width: 50px) {
+  /* Navbar */
+  .navbar + .docs-section {
+    border-top-width: 0; }
+  .navbar,
+  .navbar-spacer {
+    display: block;
+    width: 100%;
+    height: 6.5rem;
+    background: #fff;
+    z-index: 99;
+    border-top: 1px solid #eee;
+    border-bottom: 1px solid #eee; }
+  .navbar-spacer {
+    display: none; }
+/*
+  .navbar > .container {
+    width: 100%; }
+*/
+  .navbar-list {
+    list-style: none;
+    margin-bottom: 0; 
+	float: right; 
+  }
+  .navbar-item-left {
+    float: left;
+    margin-bottom: 0;
+  }
+  .navbar-item {
+    position: relative;
+    //float: right;
+	text-align: right;
+    margin-bottom: 0; }
+  .navbar-link {
+    text-transform: uppercase;
+    font-size: 11px;
+    font-weight: 600;
+    letter-spacing: .2rem;
+    margin-right: 35px;
+    text-decoration: none;
+    line-height: 6.5rem;
+    color: #222; }
+  #bio .navbar-link {
+    color: #fff; 
+	}
+  #bio .navbar-link:hover {
+  	color: #86BDF0;
+	}
+  .navbar-link.active {
+    color: #33C3F0; }
+}
+@media (min-width: 750px) {
+  .navbar-item {
+    //float: right;
+    float: left;
+	}
+  .navbar-link {
+    margin-right: 10px;
+    }
+  a.lang-link {
+	  display: block;
+	  line-height: 2.2rem;
+	  text-align: right;
+	  text-transform: lowercase;
+  }
+  #logo-front > img {
+	height: 130px;
+  }
+  .lang {
+  	margin-top: 22px;
+	margin-right: 0;
+  }
+  #front .lang.navbar-item {
+	margin-top: 0;
+  }
+  #front .lang-link,
+  #front .lang-text {
+  	margin: 0;
+	//min-width: 38px; /* hardcoded, and I hate it */
+	//min-width: 57px; /* hardcoded, and I hate it */
+  }
+  #front a.lang-link {
+	  text-transform: capitalize;
+  }
+  #front .lang.navbar-item > .lang-link {
+  	display: none;
+  }
+  #front .lang.navbar-item:hover > .lang-link {
+  	display: block;
+  }
+  #front .lang.navbar-item > .lang-text {
+  	display: block;
+	//visibility: show;
+  }
+  #front .lang.navbar-item:hover > .lang-text {
+  	display: none;
+	//visibility: hidden;
+	//position: absolute;
+  }
+}
+@media (min-width: 850px) {
+  .navbar-link {
+    margin-right: 25px;
+    }
+}
+@media (min-width: 1000px) {
+  .navbar-link {
+    margin-right: 35px;
+    }
+}
+
+
+
+
+
+
+
+
+
+/* NEEDS TO BE RESET */
+/* TODO bad to use max? */
+@media (max-width: 750px) {
+	.navbar-list {
+		/* lazy reload */
+		display: none;
+		width: 100%;
+	}
+	.navbar-item {
+		text-align: center;
+	}
+	.navbar-link {
+		text-shadow: 0px 0px 2px white;
+		margin: 0;
+		width: 100%;
+		line-height: 5rem;
+		display: block;
+		//background:maroon;
+		//border-bottom: 1px solid gray;
+
+	}
+	.navbar-item:nth-child(even),
+	.lang-link {
+		background: rgba(0,0,0,0.1);
+	}
+	.navbar-item:nth-child(odd) {
+		background: rgba(255,255,255,0.1);
+	}
+	a.lang-link {
+		text-align: center;
+		//background: rgba(255,0,0,0.1);
+		float: left;
+		width: 33%;
+		/* hardcoded for 3 languages */
+	}
+
+	#triggerbutton {
+		float: right;
+		margin: 10px;
+		display: block;
+	}
+	#triggerarea:hover .navbar-list {
+		display: block;
+	}
+	/* front */
+	#front #triggerbutton {
+		display: none;
+	}
+	#front .navbar-list {
+		float: right; 
+		width: initial;
+	}
+	#front .navbar-item:nth-child(even),
+	#front .navbar-item:nth-child(odd),
+	#front .lang-link,
+	#front .navbar-item,
+	#front .navbar-link {
+		background: none;
+		text-align: right;
+		line-height: 6.5rem;
+		line-height: 4.5rem;
+	}
+	#front .navbar-item {
+    	margin-right: 35px;
+	}
+	#front .navbar-list {
+		display: block;
+	}
+}
+
+
