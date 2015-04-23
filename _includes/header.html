@@ -1,0 +1,109 @@
+{% assign sorted_pages = site.pages | sort:"name" %}
+    <div class="container nav">
+  		{% for node in sorted_pages %}
+  		{% if node.url == page.url %}
+  		{% if node.id == "bio" %}
+		  {% assign bio = "true" %}
+  		{% else %}
+		  {% assign bio = "false" %}
+  		{% endif %}
+  		{% endif %}
+  		{% endfor %}
+
+  		{% if bio == "true" %}
+        <div id="logo">
+          <a href="../../"><img src="../../images/logo_white.png" alt="{{ site.name }}"></a>
+	    </div>
+  		{% else %}
+        <div id="logo">
+		  <a href="../../"><img src="../../images/logo.png" alt="{{ site.name }}"></a>
+	    </div>
+  		{% endif %}
+      <div id="triggerarea">
+        <a href="#" id="triggerbutton">
+  		{% if bio == "true" %}
+          <img src="../../images/button_white.png" alt="navigation">
+  		{% else %}
+          <img src="../../images/button.png" alt="navigation">
+  		{% endif %}
+        </a>
+		<div class="navbar-wrapper">
+        <ul class="navbar-list">
+  		{% for node in sorted_pages %}
+  		{% if node.lang == page.lang %}
+  		{% if node.id != "front" %}
+  		  {% if node.url == page.url %}
+          		<li class="navbar-item"><a class="active" href="../..{{ node.url }}">{{ node.title }}</a></li>
+  		  {% else %}
+          		<li class="navbar-item"><a href="../..{{ node.url }}">{{ node.title }}</a></li>
+  		  {% endif %}
+  		{% endif %}
+  		{% endif %}
+  		{% endfor%}
+            <li class="lang navbar-item">
+              <a class="langtrigger desktop" href="#">language</a>
+
+		{% comment %} TODO FIX THIS MADNESS {% endcomment %}
+
+  		{% for node in sorted_pages %}
+  		{% if node.id == page.id %}
+  		{% if node.lang == "fi" %}
+			<a class="lang-link" href="../..{{ node.url }}">fi</a>
+  		{% endif %}
+  		{% endif %}
+  		{% endfor%}
+  		{% for node in sorted_pages %}
+  		{% if node.id == page.id %}
+  		{% if node.lang == "en" %}
+                <a class="lang-link" href="../..{{ node.url }}">en</a>
+  		{% endif %}
+  		{% endif %}
+  		{% endfor%}
+  		{% for node in sorted_pages %}
+  		{% if node.id == page.id %}
+  		{% if node.lang == "de" %}
+                <a class="lang-link" href="../..{{ node.url }}">de</a>
+  		{% endif %}
+  		{% endif %}
+  		{% endfor%}
+				<div style="clear: both;"></div>
+            </li>
+			<!--
+            <li class="lang navbar-item">
+
+		{% comment %} TODO FIX THIS MADNESS {% endcomment %}
+
+  		{% for node in sorted_pages %}
+  		{% if node.id == page.id %}
+  		{% if node.lang == "fi" %}
+			<a class="navbar-link lang-link" href="../..{{ node.url }}">fi</a>
+  		{% endif %}
+  		{% endif %}
+  		{% endfor%}
+  		{% for node in sorted_pages %}
+  		{% if node.id == page.id %}
+  		{% if node.lang == "en" %}
+                <a class="navbar-link lang-link" href="../..{{ node.url }}">en</a>
+  		{% endif %}
+  		{% endif %}
+  		{% endfor%}
+  		{% for node in sorted_pages %}
+  		{% if node.id == page.id %}
+  		{% if node.lang == "de" %}
+                <a class="navbar-link lang-link" href="../..{{ node.url }}">de</a>
+  		{% endif %}
+  		{% endif %}
+  		{% endfor%}
+            </li>
+			-->
+        </ul>
+		</div>
+      </div>
+    </div>
+<!--
+          <div class="lang">
+              <a href="../../fi{{ page.permalink }}">Suomi</a>
+              <a href="../../en{{ page.permalink }}">English</a>
+              <a href="../../de{{ page.permalink }}">Deutsch</a>
+          </div>
+		  -->

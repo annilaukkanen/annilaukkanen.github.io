@@ -1,0 +1,39 @@
+    <div class="container nav">
+      <div id="logo">
+		<a href="#"><img src="images/logo.png" alt="{{ site.name }}"></a>
+	  </div>
+	  <div class="navbar-wrapper">
+      <ul class="navbar-list">
+		<!--
+        <li class="navbar-item"><a class="navbar-link" href="#examples">Contact</a></li>
+        <li class="navbar-item"><a class="navbar-link" href="#examples">Pictures</a></li>
+        <li class="navbar-item"><a class="navbar-link" href="#examples">Listen</a></li>
+        <li class="navbar-item"><a class="navbar-link" href="#examples">Biography</a></li>
+        <li class="navbar-item"><a class="navbar-link" href="#intro">News</a></li>
+		-->
+		{% assign sorted_pages = site.pages | sort:"name" %}
+		{% for node in sorted_pages %}
+		{% if node.lang == page.lang %}
+		{% if node.id != "front" %}
+		  {% if node.url == page.url %}
+        		<li class="navbar-item active"><a href=".{{ node.url }}">{{ node.title }}</a></li>
+		  {% else %}
+        		<li class="navbar-item"><a href=".{{ node.url }}">{{ node.title }}</a></li>
+		  {% endif %}
+		{% endif %}
+		{% endif %}
+		{% endfor%}
+          <li class="lang navbar-item mobile">
+              <a href="fi/news">fi</a>
+              <a href="en/news">en</a>
+              <a href="de/news">de</a>
+          </li>
+          <li class="lang navbar-item desktop">
+              <a class="langtrigger" href="#">language</a>
+              <a href="fi/news">fi</a>
+              <a href="en/news">en</a>
+              <a href="de/news">de</a>
+          </li>
+      </ul>
+      </div>
+    </div>

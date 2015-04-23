@@ -1,0 +1,37 @@
+---
+---
+
+/*
+* Copyright for images belongs to Jan Ahlstedt, unless otherwise noted
+*/
+
+
+$tablet-width: 768px; 
+$desktop-width: 900px; 
+$verybig-width: 1921px;
+$number-of-languages: 3; 
+@mixin large {
+	@media (min-width: #{$verybig-width}) {
+		@content; 
+	}
+}
+@mixin desktop {
+	@media (min-width: #{$desktop-width}) {
+		@content; 
+	}
+}
+@mixin tablet {
+	@media (min-width: #{$tablet-width}) {
+		@content; 
+	}
+}
+@mixin mobile {
+	@media (max-width: #{$tablet-width - 1}) {
+		@content; 
+	}
+}
+
+@import 'normalize';
+@import 'skeleton'; 
+@import 'header'; 
+@import 'page'; 
