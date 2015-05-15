@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Listen
 permalink: /en/listen/
 #permalink: /listen/

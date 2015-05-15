@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Hören
 permalink: /de/listen/
 lang: de

@@ -1,10 +1,10 @@
 ---
-layout: page
+layout: default
 title: Kontakt
 permalink: /de/contact/
 lang: de
 id: contact
 ---
 
-wienerschnitzel
+contact info
 

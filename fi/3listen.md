@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Kuuntele
 permalink: /fi/listen/
 lang: fi

@@ -1,10 +1,9 @@
 ---
-layout: page
+layout: default
 title: Ota Yhteyttä
 permalink: /fi/contact/
 lang: fi
 id: contact
 ---
 
-vihaan ruotsia
-
+contact info

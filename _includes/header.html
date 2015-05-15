@@ -1,38 +1,74 @@
 {% assign sorted_pages = site.pages | sort:"name" %}
-	<div class="navbar-spacer"></div>
     <div class="container nav">
   		{% for node in sorted_pages %}
   		{% if node.url == page.url %}
   		{% if node.id == "bio" %}
-        <a id="logo" class="navbar-item-left" href="../../"><img src="../../images/Anni_Webpage_logo_compressed_white.png" alt="{{ site.name }}"></a>
+		  {% assign bio = "true" %}
   		{% else %}
-        <a id="logo" class="navbar-item-left" href="../../"><img src="../../images/Anni_Webpage_logo_compressed.png" alt="{{ site.name }}"></a>
+		  {% assign bio = "false" %}
   		{% endif %}
   		{% endif %}
-  		{% endfor%}
+  		{% endfor %}
+
+  		{% if bio == "true" %}
+        <div id="logo">
+          <a href="../../"><img src="../../images/logo_white.png" alt="{{ site.name }}"></a>
+	    </div>
+  		{% else %}
+        <div id="logo">
+		  <a href="../../"><img src="../../images/logo.png" alt="{{ site.name }}"></a>
+	    </div>
+  		{% endif %}
       <div id="triggerarea">
         <a href="#" id="triggerbutton">
+  		{% if bio == "true" %}
+          <img src="../../images/button_white.png" alt="navigation">
+  		{% else %}
           <img src="../../images/button.png" alt="navigation">
+  		{% endif %}
         </a>
+		<div class="navbar-wrapper">
         <ul class="navbar-list">
-  		<!--
-          <li class="navbar-item"><a class="navbar-link" href="#examples">Contact</a></li>
-          <li class="navbar-item"><a class="navbar-link" href="#examples">Pictures</a></li>
-          <li class="navbar-item"><a class="navbar-link" href="#examples">Listen</a></li>
-          <li class="navbar-item"><a class="navbar-link" href="#examples">Biography</a></li>
-          <li class="navbar-item"><a class="navbar-link" href="#intro">News</a></li>
-  		-->
   		{% for node in sorted_pages %}
   		{% if node.lang == page.lang %}
   		{% if node.id != "front" %}
   		  {% if node.url == page.url %}
-          		<li class="navbar-item active"><a class="navbar-link" href="../..{{ node.url }}">{{ node.title }}</a></li>
+          		<li class="navbar-item"><a class="active" href="../..{{ node.url }}">{{ node.title }}</a></li>
   		  {% else %}
-          		<li class="navbar-item"><a class="navbar-link" href="../..{{ node.url }}">{{ node.title }}</a></li>
+          		<li class="navbar-item"><a href="../..{{ node.url }}">{{ node.title }}</a></li>
   		  {% endif %}
   		{% endif %}
   		{% endif %}
   		{% endfor%}
+            <li class="lang navbar-item">
+              <a class="langtrigger desktop" href="#">language</a>
+
+		{% comment %} TODO FIX THIS MADNESS {% endcomment %}
+
+  		{% for node in sorted_pages %}
+  		{% if node.id == page.id %}
+  		{% if node.lang == "fi" %}
+			<a class="lang-link" href="../..{{ node.url }}">fi</a>
+  		{% endif %}
+  		{% endif %}
+  		{% endfor%}
+  		{% for node in sorted_pages %}
+  		{% if node.id == page.id %}
+  		{% if node.lang == "en" %}
+                <a class="lang-link" href="../..{{ node.url }}">en</a>
+  		{% endif %}
+  		{% endif %}
+  		{% endfor%}
+  		{% for node in sorted_pages %}
+  		{% if node.id == page.id %}
+  		{% if node.lang == "de" %}
+                <a class="lang-link" href="../..{{ node.url }}">de</a>
+  		{% endif %}
+  		{% endif %}
+  		{% endfor%}
+				<div style="clear: both;"></div>
+            </li>
+			<!--
             <li class="lang navbar-item">
 
 		{% comment %} TODO FIX THIS MADNESS {% endcomment %}
@@ -59,7 +95,9 @@
   		{% endif %}
   		{% endfor%}
             </li>
+			-->
         </ul>
+		</div>
       </div>
     </div>
 <!--
