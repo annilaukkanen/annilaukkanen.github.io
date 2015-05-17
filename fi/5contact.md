@@ -6,4 +6,7 @@ lang: fi
 id: contact
 ---
 
-contact info
++4915751607709  
++358505201471
+
+anlaukka@gmail.com

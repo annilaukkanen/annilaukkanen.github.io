@@ -1,10 +1,13 @@
 ---
 layout: default
 title: Contact
-#permalink: /en/contact/
 permalink: /en/contact/
 lang: en
 id: contact
 ---
-contact info
+
++4915751607709  
++358505201471
+
+anlaukka@gmail.com
 
