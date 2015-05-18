@@ -51,33 +51,40 @@
 {% else %}
 {% include header.html %}
 
+
+{% if page.id == "bio" %}
+<div class="container" id="content">
+    <div class="row">
+        <div class="right halfdesk showmindesk">
+		<h2>{{ page.title }}</h2>
+		</div>
+        <div class="ten columns offset-by-one showmaxdesk">
+		<h2>{{ page.title }}</h2>
+		</div>
+	</div>
+</div>
+
+<div class="bioimage">
+<div class="imgshadow"><img src="../../images/forest_bw.jpg" style="width: 100%;" class="DISpicture" /></div>
+</div>
+
+<div style="clear: both;"></div>
+{% endif %}
+
+
+
+
+
 <div class="container" id="content">
     <div class="row">
         <div>
             {% if page.id == "bio" %}
-            <!--
-                <div class="five columns">
-                    <img src="../../images/anni_laukkanen-94.jpg" style="width: 100%;margin-top:80px;" class="picture"/>
-                </div>
-                <div class="eight columns offset-by-two">
-                -->
-            <!--
-            <div class="column" style="max-width: 615px; margin: 0 auto; float: none">
-            <h2>{{ page.title }}</h2>
-              <img src="../../images/Anni_Laukkanen_w270.jpg" class="picture biopicture"/>
-            { content }}
-            </div>
-              <img src="../../images/sitting_croptest.jpg" class="picture " style="width: 100%;"/>
-            <div class="one-half column offset-by-six">
-            -->
-            <div class="halfdesk right">
-                <h2>{{ page.title }}</h2>
-                <br/>
-                <br/>
+            <div class="right halfdesk showmindesk">
                 {{ content }}
             </div>
-            <!--
-            -->
+            <div class="ten columns offset-by-one showmaxdesk">
+                {{ content }}
+            </div>
             {% elsif page.id == "news" %}
             <div class="columns">
                 <img src="../../images/forestfg.jpg" alt="Anni Laukkanen" class="picture" style="width: 50%; float: right; margin: 10px;"/>
@@ -91,12 +98,6 @@
                 {{ content }}
             </div>
             {% elsif page.id == "contact" %}
-            <!--
-            <div class="five columns">
-                <img src="../../images/hair.jpg" style="width: 100%;margin-top:0px;" class="picture"/>
-            </div>
-            <div class="one-half column offset-by-one">
-            -->
             <div class="halfdesk right">
                 <h2>{{ page.title }}</h2>
                 {{ content }}

@@ -12,7 +12,8 @@
 
   		{% if bio == "true" %}
         <div id="logo">
-          <a href="../../"><img src="../../images/logo_white.png" alt="{{ site.name }}"></a>
+          <a href="../../" class="showmindesk"><img src="../../images/logo_white.png" alt="{{ site.name }}"></a>
+		  <a href="../../" class="showmaxdesk"><img src="../../images/logo.png" alt="{{ site.name }}"></a>
 	    </div>
   		{% else %}
         <div id="logo">
@@ -22,7 +23,8 @@
       <div id="triggerarea">
         <a href="#" id="triggerbutton">
   		{% if bio == "true" %}
-          <img src="../../images/button_white.png" alt="navigation">
+          <img class="desktop" src="../../images/button_white.png" alt="navigation">
+          <img class="mobile" src="../../images/button.png" alt="navigation">
   		{% else %}
           <img src="../../images/button.png" alt="navigation">
   		{% endif %}
