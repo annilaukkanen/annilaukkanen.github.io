@@ -74,6 +74,7 @@ footer {
 			text-shadow: 0px 0px 4px white;
 		}
 	}
+	/*
 	#bio & {
 		text-shadow: 0px 0px 2px black;
     	color: $footerwhite; 
@@ -87,6 +88,7 @@ footer {
 		}
 	
 	}
+	*/
 }
 
 a:hover {
@@ -118,8 +120,11 @@ h4 {
 
 @media (min-width: 550px) {
 	.bioimage {
+		/* width of biotext (10/12) inside width of container (80%) */
 		width: 66%;
 		margin: 0 auto;
+		/* width of biotext (10/12) inside max-width of container (960px) */
+		max-width: 800px;
 	}
 }
 .imgshadow {
