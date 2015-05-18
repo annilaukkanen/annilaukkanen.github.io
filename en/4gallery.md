@@ -6,7 +6,7 @@ lang: en
 id: pictures
 ---
 
-
+__Photography by Jan Ahlstedt__{: .photographer}
 
 
 <div class="row gal" markdown="1">
@@ -14,13 +14,21 @@ id: pictures
 ![gallery image](../../images/gallery/color1_small.jpg)
 ![gallery image](../../images/gallery/color2_small.jpg)
 
-
+<!--
 <div class="captionbox"  markdown="1">
 ![gallery image](../../images/gallery/stage1_small.jpg){: .whole}
 
 <p class="caption">Photo by: Antti Honkala</p>
 
 </div>
+-->
+
+<div class="" style="clear: both; position: relative;" markdown="1">
+![gallery image](../../images/gallery/stage1_small.jpg){: .whole}
+<div style="clear: both;" ></div>
+<p class="" style="position: absolute; color: #555; bottom: 3%; right: 3%;">Photo by: Antti Honkala</p>
+</div>
+
 
 ![gallery image](../../images/gallery/bw1_small.jpg)
 ![gallery image](../../images/gallery/bw2_small.jpg)
@@ -44,13 +52,6 @@ id: pictures
 [Photo 2](../../images/gallery/color2.jpg)
 [Photo 3](../../images/gallery/bw1.jpg)
 [Photo 4](../../images/gallery/bw2.jpg)
-
-<br/>
-<br/>
-<br/>
-<br/>
-
-__Photography by Jan Ahlstedt__
 
 
 </div>

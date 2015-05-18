@@ -6,7 +6,7 @@ lang: fi
 id: pictures
 ---
 
-
+__Photography by Jan Ahlstedt__{: .photographer}
 
 
 <div class="row gal" markdown="1">
@@ -44,11 +44,6 @@ id: pictures
 [Photo 3](../../images/gallery/bw1.jpg)
 [Photo 4](../../images/gallery/bw2.jpg)
 
-<br/>
-<br/>
-<br/>
-<br/>
 
-<p style="margin: 0 auto; font-size: 18px; font-weight: bold; ">Photography by Jan Ahlstedt</p>
 </div>
 
