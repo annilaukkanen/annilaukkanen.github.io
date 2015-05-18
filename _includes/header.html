@@ -3,7 +3,7 @@
   		{% for node in sorted_pages %}
   		{% if node.url == page.url %}
   		{% if node.id == "bio" %}
-		  {% assign DISbio = "true" %}
+		  {% assign bio = "true" %}
   		{% else %}
 		  {% assign bio = "false" %}
   		{% endif %}
@@ -12,8 +12,8 @@
 
   		{% if bio == "true" %}
         <div id="logo">
-          <a href="../../" class="desktop"><img src="../../images/logo_white.png" alt="{{ site.name }}"></a>
-		  <a href="../../" class="mobile"><img src="../../images/logo.png" alt="{{ site.name }}"></a>
+          <a href="../../" class="showmindesk"><img src="../../images/logo_white.png" alt="{{ site.name }}"></a>
+		  <a href="../../" class="showmaxdesk"><img src="../../images/logo.png" alt="{{ site.name }}"></a>
 	    </div>
   		{% else %}
         <div id="logo">

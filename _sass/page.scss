@@ -36,9 +36,9 @@ body {
 		//background: url('../images/forestbg_mobile.jpg') no-repeat;
 		//background-size: cover;
 		@include desktop {
-			//color: white;
-			//background: url('../images/forestbg.jpg') no-repeat center center fixed;
-			//background-size: cover;
+			color: white;
+			background: url('../images/forestbg.jpg') no-repeat center center fixed;
+			background-size: cover;
 		}
 	}
 }
@@ -74,21 +74,20 @@ footer {
 			text-shadow: 0px 0px 4px white;
 		}
 	}
-	/*
 	#bio & {
-		text-shadow: 0px 0px 2px black;
-    	color: $footerwhite; 
-		a {
-			text-decoration: none;
-    		color: $footerwhite; 
-			&:hover {
-    			color: $footerwhite + #222; 
-				text-shadow: 0px 0px 1px black;
+		@include desktop {
+			text-shadow: 0px 0px 2px black;
+			color: $footerwhite; 
+			a {
+				text-decoration: none;
+				color: $footerwhite; 
+				&:hover {
+					color: $footerwhite + #222; 
+					text-shadow: 0px 0px 1px black;
+				}
 			}
 		}
-	
 	}
-	*/
 }
 
 a:hover {
@@ -118,15 +117,21 @@ h4 {
 	box-shadow: 0px 0px 5px #333;
 }
 
-@media (min-width: 550px) {
-	.bioimage {
+.bioimage {
+	@media (min-width: 550px) {
 		/* width of biotext (10/12) inside width of container (80%) */
 		width: 66%;
 		margin: 0 auto;
 		/* width of biotext (10/12) inside max-width of container (960px) */
 		max-width: 800px;
+		//display: block; 
+	}
+	@include desktop {
+		//border: 10px solid red; 
+		display: none; 
 	}
 }
+
 .imgshadow {
 	position: relative;
 	//max-width: 100%;
@@ -196,6 +201,17 @@ h4 {
 }
 .desktop {
 	display: none;
+}
+.showmaxdesk {
+	@include desktop {
+		display: none; 
+	}
+}
+.showmindesk {
+	display: none;
+	@include desktop {
+		display: block; 
+	}
 }
 
 #pictures #content img {
