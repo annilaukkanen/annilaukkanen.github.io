@@ -30,12 +30,15 @@ body {
 		background-size: cover;
 	}
 	&#bio {
-		color: white;
-		background: url('../images/forestbg_mobile.jpg') no-repeat center center fixed;
-		background-size: cover;
+		//background: url('../images/forestbg_mobile.jpg') no-repeat center center fixed;
+		//background-size: cover;
+
+		//background: url('../images/forestbg_mobile.jpg') no-repeat;
+		//background-size: cover;
 		@include desktop {
-			background: url('../images/forestbg.jpg') no-repeat center center fixed;
-			background-size: cover;
+			//color: white;
+			//background: url('../images/forestbg.jpg') no-repeat center center fixed;
+			//background-size: cover;
 		}
 	}
 }
@@ -112,6 +115,40 @@ h4 {
 .galimg {
 	box-shadow: 0px 0px 5px #333;
 }
+
+@media (min-width: 550px) {
+	.bioimage {
+		width: 66%;
+		margin: 0 auto;
+	}
+}
+.imgshadow {
+	position: relative;
+	//max-width: 100%;
+	width: 100%;
+	float: left;
+	}
+    
+.imgshadow::before {
+	content: "";
+	position: absolute;
+	top: 0;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	box-shadow: inset 0 0 40px rgba(0,0,0,.6);
+	//box-shadow: inset 0 0 40px rgba(153,90,19,.2);
+	-moz-box-shadow: inset 0 0 40px rgba(0,0,0,.6);
+	-webkit-box-shadow: inset 0 0 40px rgba(0,0,0,.6);
+} 
+.imgshadow::after {
+	clear: both; 
+}
+	   
+.imgshadow img {
+	float: left;
+} 
+
 .video iframe {
 	width: 100%;
 	height: 100%;
