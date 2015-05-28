@@ -20,7 +20,7 @@ __13 Uhr Workshop mit Prof. Eric Schneider__
 __19 Uhr Konzert im Studiosaal__
 
 #### 30.5. Konzert im ART Salon
-Wir werden zusammen mit Sopran Álfheiður Guðmundsdóttir Lieder von Edvard Grieg spielen.
+Wir werden zusammen mit Sopran Álfheiður Guðmundsdóttir Lieder von Edvard Grieg spielen.  
 __18 Uhr, Windscheidstr. 17/1, Berlin (Charlottenburg)__
 
 

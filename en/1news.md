@@ -22,7 +22,7 @@ __1 p.m. Masterclass of Eric Schneider__
 __7 p.m. Concert, I'll perform together with baritone Michael Borth__
 
 #### 30.5. Concert in ART Salon
-We are going to perform together with soprano Álfheiður Guðmundsdóttir some songs by Edvard Grieg.
+We are going to perform together with soprano Álfheiður Guðmundsdóttir some songs by Edvard Grieg.  
 __6 p.m. Windscheidstr. 17/1, Berlin (Charlottenburg)__
 
 ### June 2015

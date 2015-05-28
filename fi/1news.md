@@ -21,7 +21,7 @@ __klo.13 alkaen Prof. Erik Schneiderin mestarikurssi__
 __klo.19 konsertti, esiinnyn baritoni Michael Borthin kanssa__  
 
 #### 30.5. Lied­konsertti
-Esitämme yhdessä sopraano Álfheiður Guðmundsdóttirin kanssa Edvard Griegin lauluja.
+Esitämme yhdessä sopraano Álfheiður Guðmundsdóttirin kanssa Edvard Griegin lauluja.  
 __klo.18, ART Salon (Windscheidstr. 17/1, Berliini)__
 
 ### Kesäkuu 2015
