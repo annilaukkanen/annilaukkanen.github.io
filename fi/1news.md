@@ -20,6 +20,10 @@ Studiosaal (Charlottenstr.55)
 __klo.13 alkaen Prof. Erik Schneiderin mestarikurssi__  
 __klo.19 konsertti, esiinnyn baritoni Michael Borthin kanssa__  
 
+#### 30.5. Lied­konsertti
+Esitämme yhdessä sopraano Álfheiður Guðmundsdóttirin kanssa Edvard Griegin lauluja.
+__klo.18, ART Salon (Windscheidstr. 17/1, Berliini)__
+
 ### Kesäkuu 2015
 
 #### 3.6. Wolfram Riegerin Lied-luokan konsertti
@@ -30,9 +34,6 @@ Esiinnyn yhdessä baritoni Changbo Wangin kanssa
 __klo.19 Universität der Künste (Hardenbergstr.33)__
 
 
-#### 19.6. Lied-konsertti sopraano Álfheiður Guðmundsdóttirin kanssa 
-Pohjoismaisten säveltäjien musiikkia  
-__klo.19 Thieles Garten, Bremerhaven__
 
 #### 20.6. Midsummer Fest
 Aaron Coplandin lauluja kokoelmasta 12 Poems of Emily Dickinson  

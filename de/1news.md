@@ -19,6 +19,11 @@ Studiosaal (Charlottenstr.55)
 __13 Uhr Workshop mit Prof. Eric Schneider__  
 __19 Uhr Konzert im Studiosaal__
 
+#### 30.5. Konzert im ART Salon
+Wir werden zusammen mit Sopran Álfheiður Guðmundsdóttir Lieder von Edvard Grieg spielen.
+__18 Uhr, Windscheidstr. 17/1, Berlin (Charlottenburg)__
+
+
 ### Juni 2015
 
 #### 3.6. Liederabend der Liedklasse Prof. Wolfram Rieger
@@ -27,9 +32,6 @@ __19 Uhr, Hochschule für Musik "Hanns Eisler" / Studiosaal__
 #### 4.6. Liedkonzert "China trifft Berlin"
 __19 Uhr, Universität der Künste Berlin / Konzertsaal (Hardenbergstr.33)__
 
-#### 19.6. Liedkonzert mit Sopran Álfheiður Guðmundsdóttir
-Musik von nordischen Komponisten  
-__19 Uhr Thieles Garten, Bremerhaven__
 
 
 #### 20.6. Midsummer Fest
