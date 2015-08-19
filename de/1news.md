@@ -54,4 +54,9 @@ __Savonlinna Opernfestspiele__
 Pétur Björnsson, Geiger  
 __21 Uhr, Der Dom von Reykjavík (isl.Dómkirkja), Island__
 
+### September 2015
 
+#### 10.10. Liedkonzert
+Lieder von Grieg, Sibelius, Merikanto, Kuusisto  
+Anni Niemelä, Sopran  
+__16 Uhr, Finnland-Zentrum, Berlin (Schleiermacherstr.24Aa)__
