@@ -57,3 +57,9 @@ __Savonlinna Opera Festival__
 Pétur Björnsson, violin  
 __9 p.m. Reykjavik Cathedral, Iceland__
 
+### September 2015
+
+#### 10.10. Lied concert
+Songs by Grieg, Sibelius, Merikanto, Kuusisto  
+Anni Niemelä, soprano  
+__4 p.m. Finnland-Zentrum, Berlin (Schleiermacherstr.24Aa)__
