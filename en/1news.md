@@ -48,3 +48,12 @@ __7 p.m. Studiosaal (Charlottenstr.55)__
 
 #### 19.7.  Timo Mustakallio -singing competition with soprano Anni Niemelä
 __Savonlinna Opera Festival__
+
+
+### August 2015
+
+#### 22.8. Lied concert "Songs from north and cheerful southern arias"
+Álfheiður Erla Guðmundsdóttir ja Kristin Guðmundsdóttir, soprano  
+Pétur Björnsson, violin  
+__9 p.m. Reykjavik Cathedral, Iceland__
+
