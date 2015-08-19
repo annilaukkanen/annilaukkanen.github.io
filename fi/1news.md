@@ -49,7 +49,11 @@ __klo.19 Studiosaal (Charlottenstr.55)__
 sopraano Anni Niemelän kanssa  
 __Savonlinnan Oopperajuhlat__
 
+### Elokuu 2015
 
-
+#### 22.8. Lied-konsertti "Liedejä pohjoisesta ja aarioita etelästä"
+Álfheiður Erla Guðmundsdóttir ja Kristin Guðmundsdóttir, sopraano  
+Pétur Björnsson, viulu  
+__klo.21 Tuomiokirkko, Reykjavik, Islanti__
 
 
