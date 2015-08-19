@@ -47,4 +47,11 @@ __19 Uhr, Hochschule für Musik "Hanns Eisler" / Studiosaal__
 #### 19.7. Timo Mustakallio -Gesangwettbewerb mit Anni Niemelä, Sopran
 __Savonlinna Opernfestspiele__
 
+### August 2015
+
+#### 22.8. Liedkonzert
+Álfheiður Erla Guðmundsdóttir ja Kristin Guðmundsdóttir, Sopran  
+Pétur Björnsson, Geiger  
+__21 Uhr, Der Dom von Reykjavík (isl.Dómkirkja), Island__
+
 
