@@ -26,6 +26,7 @@ __Photography by Jan Ahlstedt__{: .photographer}
 ![gallery image](../../images/gallery/bw2_small.jpg)
 ![gallery image](../../images/gallery/color3_small.jpg)
 
+<!-- add more pictures under this line. To make the picture full width add "{: .whole}" to the end of the line, like above -->
 
 
 
