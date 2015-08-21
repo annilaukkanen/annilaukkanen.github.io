@@ -16,7 +16,9 @@ __Photography by Jan Ahlstedt__{: .photographer}
 
 <div class="captionbox"  markdown="1">
 ![gallery image](../../images/gallery/stage1_small.jpg){: .whole}
+
 <p class="caption">Photo by: Antti Honkala</p>
+
 </div>
 
 
