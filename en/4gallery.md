@@ -16,34 +16,18 @@ __Photography by Jan Ahlstedt__{: .photographer}
 
 <div class="captionbox"  markdown="1">
 ![gallery image](../../images/gallery/stage1_small.jpg){: .whole}
-
 <p class="caption">Photo by: Antti Honkala</p>
-
 </div>
-
-<!--
-<div class="" style="clear: both; position: relative;" markdown="1">
-![gallery image](../../images/gallery/stage1_small.jpg){: .whole}
-<div style="clear: both;" ></div>
-<p class="" style="position: absolute; color: #555; bottom: 3%; right: 3%;">Photo by: Antti Honkala</p>
-</div>
--->
 
 
 ![gallery image](../../images/gallery/bw1_small.jpg)
 ![gallery image](../../images/gallery/bw2_small.jpg)
-
 ![gallery image](../../images/gallery/color3_small.jpg)
 
 
 
-<!-- lower quality
-<img class="galimg half" src="../../images/gallery/playing_piano1_w270.jpg">
-<img class="galimg half" src="../../images/gallery/playing_piano2_rot_w270.jpg">
--->
 
 </div>
-
 <div class="row hi-res" markdown="1">
 
 #### High resolution
