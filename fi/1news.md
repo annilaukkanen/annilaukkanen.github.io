@@ -61,4 +61,4 @@ __klo.21 Tuomiokirkko, Reykjavik, Islanti__
 #### 10.10. Liedkonsertti
 Lauluja mm. Edvard Griegiltä, Jean Sibeliukselta, Aarre Merikannolta ja Ilkka Kuusistolta  
 Anni Niemelä, sopraano  
-__klo.16 Suomi-keskus, Berliini (Schleiermacherstr.24Aa)__
+__klo.19 Suomi-keskus, Berliini (Schleiermacherstr.24Aa)__

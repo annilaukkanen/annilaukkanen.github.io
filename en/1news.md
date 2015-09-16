@@ -62,4 +62,4 @@ __9 p.m. Reykjavik Cathedral, Iceland__
 #### 10.10. Lied concert
 Songs by Grieg, Sibelius, Merikanto, Kuusisto  
 Anni Niemelä, soprano  
-__4 p.m. Finnland-Zentrum, Berlin (Schleiermacherstr.24Aa)__
+__7 p.m. Finnland-Zentrum, Berlin (Schleiermacherstr.24Aa)__

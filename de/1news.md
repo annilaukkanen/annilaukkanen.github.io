@@ -59,4 +59,4 @@ __21 Uhr, Der Dom von Reykjavík (isl.Dómkirkja), Island__
 #### 10.10. Liedkonzert
 Lieder von Grieg, Sibelius, Merikanto, Kuusisto  
 Anni Niemelä, Sopran  
-__16 Uhr, Finnland-Zentrum, Berlin (Schleiermacherstr.24Aa)__
+__19 Uhr, Finnland-Zentrum, Berlin (Schleiermacherstr.24Aa)__
