@@ -94,11 +94,11 @@ __klo.19 Studiosaal (Charlottenstr.55)__
 
 #### 23.2. Lied-konsertti
 Säveltäjinä mm. Aarre Merikanto, Claude Debussy, Erik Satie ja Ilkka Kuusisto
-Anni Niemelä, sopraano
+Anni Niemelä, sopraano  
 __klo.19 Wäinö Aaltosen museo, Turku__
 
 #### 28.2. Lied-konsertti
-Anni Niemelä, sopraano
+Anni Niemelä, sopraano  
 __klo.16 Muuramen Kulttuurikeskus__
 
 
