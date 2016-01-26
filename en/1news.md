@@ -63,3 +63,25 @@ __9 p.m. Reykjavik Cathedral, Iceland__
 Songs by Grieg, Sibelius, Merikanto, Kuusisto  
 Anni Niemelä, soprano  
 __7 p.m. Finnland-Zentrum, Berlin (Schleiermacherstr.24Aa)__
+
+#### 23.-28.10. International Giulio Perotti singing competition  
+Together with soprano Álfheiður Erla Guðmundsdóttir
+
+### November 2015
+
+#### 10.-16.11. Nadia et Lili Boulanger Lied competition in Paris
+
+#### 28.11. Students of Wolfram Rieger perform  
+__7 p.m. Studiosaal (Charlottenstr.55)__
+
+### December 2015
+
+#### 4.12. & 5.12. Opera Dinner  
+Three course menu with arias and duets 80 meters under ground  
+Anni Niemelä, soprano  
+Linard Vrielink, tenor  
+__6:30 p.m. Tytyri mine museum, tickets 85 euros__
+
+### 8.12. Concert of finnish music  
+Celebrating the 150th anniversary of Jean Sibelius, Finnish musicians perform  
+__8 p.m. Passionskirche, Berlin__
