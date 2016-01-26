@@ -86,7 +86,7 @@ __klo.20 Passionskirche, Marheinekeplatz 1, liput 15/10 euroa__
 
 ### Tammikuu 2016
 
-#### 1.-6.1. Lappeenrannanlaulukilpailut
+#### 1.-6.1. Lappeenrannan laulukilpailut
 __Lappeenrantasali, Villimiehenkatu 1__
 
 #### 9.2. Wolfram Riegerin Lied-luokan konsertti
