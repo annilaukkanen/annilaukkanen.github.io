@@ -68,7 +68,8 @@ __klo.19 Suomi-keskus, Berliini (Schleiermacherstr.24Aa)__
 
 ### Marraskuu 2015
 
-#### 11.-16.11. Nadia et Lili Boulanger Lied-kilpailut Pariisissa
+#### 11.-16.11. Nadia et Lili Boulanger Lied-kilpailut Pariisissa  
+Yhdessä sopraano Lauren Swan Edwardsin kanssa
 
 #### 28.11. Wolfram Riegerin Lied-luokan konsertti  
 __klo.19 Studiosaal (Charlottenstr.55)__
