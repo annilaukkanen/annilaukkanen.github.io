@@ -92,6 +92,8 @@ __Lappeenrantasali, Villimiehenkatu 1__
 #### 9.2. Wolfram Riegerin Lied-luokan konsertti
 __klo.19 Studiosaal (Charlottenstr.55)__
 
+### Helmikuu 2016
+
 #### 23.2. Lied-konsertti
 Säveltäjinä mm. Aarre Merikanto, Claude Debussy, Erik Satie ja Ilkka Kuusisto
 Anni Niemelä, sopraano  
