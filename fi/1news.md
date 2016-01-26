@@ -62,3 +62,44 @@ __klo.21 Tuomiokirkko, Reykjavik, Islanti__
 Lauluja mm. Edvard Griegiltä, Jean Sibeliukselta, Aarre Merikannolta ja Ilkka Kuusistolta  
 Anni Niemelä, sopraano  
 __klo.19 Suomi-keskus, Berliini (Schleiermacherstr.24Aa)__
+
+
+#### 23.-28.10. Säestäjänä kansainvälisissä Giulio Perotti-laulukilpailuissa Ueckermündessä
+
+### Marraskuu 2015
+
+#### 11.-16.11. Nadia et Lili Boulanger Lied-kilpailut Pariisissa
+
+#### 28.11. Wolfram Riegerin Lied-luokan konsertti  
+__klo.19 Studiosaal (Charlottenstr.55)__
+
+### Joulukuu 2015
+
+#### 4.12. ja 5.12 Opera Dinner  
+Alkumaljat sekä kolmen ruokalajin illallinen  
+Anni Niemelä, sopraano  
+Linard Vrielink, tenori  
+__klo.18:30 Tytyrin kaivosmuseo, liput 85 euroa__
+
+#### 8.12. Sibeliuksen 150-vuotisjuhlakonsertti suomalaisen musiikin päivänä  
+__klo.20 Passionskirche, Marheinekeplatz 1, liput 15/10 euroa__
+
+### Tammikuu 2016
+
+#### 1.-6.1. Lappeenrannanlaulukilpailut
+__Lappeenrantasali, Villimiehenkatu 1__
+
+#### 9.2. Wolfram Riegerin Lied-luokan konsertti
+__klo.19 Studiosaal (Charlottenstr.55)__
+
+#### 23.2. Lied-konsertti
+Säveltäjinä mm. Aarre Merikanto, Claude Debussy, Erik Satie ja Ilkka Kuusisto
+Anni Niemelä, sopraano
+__klo.19 Wäinö Aaltosen museo, Turku__
+
+#### 28.2. Lied-konsertti
+Anni Niemelä, sopraano
+__klo.16 Muuramen Kulttuurikeskus__
+
+
+
