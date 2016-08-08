@@ -26,10 +26,10 @@ __klo.18, ART Salon (Windscheidstr. 17/1, Berliini)__
 
 ### Kesäkuu 2015
 
-#### 3.6. Wolfram Riegerin Lied-luokan konsertti
+#### 3.6. Wolfram Riegerin Liedluokan konsertti
 __klo.19, Studiosaal__
 
-#### 4.6. Lied-konsertti "China meets Berlin"
+#### 4.6. Liedkonsertti "China meets Berlin"
 Esiinnyn yhdessä baritoni Changbo Wangin kanssa  
 __klo.19 Universität der Künste (Hardenbergstr.33)__
 
@@ -88,19 +88,20 @@ __klo.20 Passionskirche, Marheinekeplatz 1, liput 15/10 euroa__
 ### Tammikuu 2016
 
 #### 1.-6.1. Lappeenrannan laulukilpailut
-__Lappeenrantasali, Villimiehenkatu 1__
+__Lappeenrantasali, Villimiehenkatu 1__  
+
+### Helmikuu 2016  
 
 #### 9.2. Wolfram Riegerin Lied-luokan konsertti
-__klo.19 Studiosaal (Charlottenstr.55)__
-
-### Helmikuu 2016
+__klo.19 Studiosaal (Charlottenstr.55)__  
 
 #### 23.2. Liedkonsertti
-Säveltäjinä mm. Aarre Merikanto, Claude Debussy, Erik Satie ja Ilkka Kuusisto
+Säveltäjinä mm. Aarre Merikanto, Claude Debussy, Erik Satie ja Ilkka Kuusisto  
 Anni Niemelä, sopraano  
 __klo.19 Wäinö Aaltosen museo, Turku__
 
-#### 28.2. Liedkonsertti
+#### 28.2. Liedkonsertti  
+Säveltäjinä mm. Aarre Merikanto, Claude Debussy, Erik Satie ja Ilkka Kuusisto  
 Anni Niemelä, sopraano  
 __klo.16 Muuramen Kulttuurikeskus__  
 
