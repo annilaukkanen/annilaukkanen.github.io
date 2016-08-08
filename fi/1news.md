@@ -95,14 +95,33 @@ __klo.19 Studiosaal (Charlottenstr.55)__
 
 ### Helmikuu 2016
 
-#### 23.2. Lied-konsertti
+#### 23.2. Liedkonsertti
 Säveltäjinä mm. Aarre Merikanto, Claude Debussy, Erik Satie ja Ilkka Kuusisto
 Anni Niemelä, sopraano  
 __klo.19 Wäinö Aaltosen museo, Turku__
 
-#### 28.2. Lied-konsertti
+#### 28.2. Liedkonsertti
 Anni Niemelä, sopraano  
-__klo.16 Muuramen Kulttuurikeskus__
+__klo.16 Muuramen Kulttuurikeskus__  
+
+### Toukokuu 2016  
+
+#### 8.5. Konsertti: Kevään iloa  
+Ohjelmassa liedmusiikkia, aarioita ja duettoja. Säveltäjinä mm. Mendelssohn, Schumann, Brahms, Mozart.  
+Maya Blaustein, sopraano  
+Melissa Sofner, mezzosopraano  
+__klo.18 Johann Sebastian Bach -Kirche, Berliini__  
+
+### Kesäkuu 2016  
+
+#### 10.-17.6. Robert Schumann -laulukilpailut
+Zwickaussa sopraano Lauren Swan Edwardsin kanssa  
+
+#### 19.6. Prof. Elisabeth Werresin laululuokan konsertti  
+Elisabeth Werresin laululuokan oppilaat esiintyvät.  
+__klo.15 Joseph-Joachim-Konzertsaal, Universität der Künste, Berliini__  
+
+
 
 
 
