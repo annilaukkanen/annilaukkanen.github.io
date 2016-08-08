@@ -77,11 +77,50 @@ __7 p.m. Studiosaal (Charlottenstr.55)__
 ### December 2015
 
 #### 4.12. & 5.12. Opera Dinner  
-Three course menu with arias and duets 80 meters under ground  
+Three course menu with arias and duets 80 meters under ground in the Tytyri mine museum.
 Anni Niemelä, soprano  
 Linard Vrielink, tenor  
 __6:30 p.m. Tytyri mine museum, tickets 85 euros__
 
 ### 8.12. Concert of finnish music  
 Celebrating the 150th anniversary of Jean Sibelius, Finnish musicians perform  
-__8 p.m. Passionskirche, Berlin__
+__8 p.m. Passionskirche, Berlin__  
+
+### January 2016  
+
+#### 1.-6.1. Lappeenranta singing competition  
+Villimiehenkatu 1, Lappeenranta Finland  
+
+### February 2016  
+
+#### 9.2. Students of Wolfram Rieger perform  
+__7 p.m. Studiosaal (Charlottenstr.55)__  
+
+#### 23.2. Lied concert  
+Songs by i.a. Claude Debussy, Erik Satie, Aarre Merikanto and Ilkka Kuusisto  
+Anni Niemelä, soprano  
+__7 p.m. Wäinö Aaltonen -museum, Turku__  
+
+#### 28.2. Lied concert  
+Songs by i.a. Claude Debussy, Erik Satie, Aarre Merikanto and Ilkka Kuusisto  
+Anni Niemelä, soprano  
+__7 p.m. Cultural centre of Muurame, Finland__  
+
+### May 2016  
+
+#### 8.5. Concert  
+Songs, arias and duets by i.a. Mendelssohn, Schumann, Brahms and Mozart  
+Maya Blaustein, soprano  
+Melissa Sofner, mezzo soprano  
+__6 p.m. Johann Sebastian Bach -Church, Berlin__  
+
+### June 2016  
+
+#### 10.-17.6. Robert Schumann singing competition  
+Zwickau, Germany  
+
+#### 19.6. Students of prof. Elisabeth Werres perform  
+__Joseph-Joachim-Saal, Universität der Künste, Berlin__  
+
+
+
