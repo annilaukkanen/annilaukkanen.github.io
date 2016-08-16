@@ -15,7 +15,7 @@ __15 Uhr, Joseph-Joachim-Saal, UdK Berlin__
 
 ### Mai 2016  
 
-8.5. Konzert  
+#### 8.5. Konzert  
 Lieder, Arien und Duette von Schumann, Mendelssohn, Brahms und Mozart u.a.  
 Maya Blaustein, Sopran  
 Melissa Sofner, Mezzosopran  
