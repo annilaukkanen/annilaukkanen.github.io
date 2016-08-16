@@ -8,7 +8,7 @@ id: news
 
 ### Juni 2016  
 
-#### 19.6. Liederabend der Liedklasse Prof. Elisabeth Werres  
+#### 19.6. Klassenabend der Gesangsklasse Prof. Elisabeth Werres  
 __15 Uhr, Joseph-Joachim-Saal, UdK Berlin__  
 
 #### 10.-17.6. Internationaler Robert-Schumann-Wettbewerb in Zwickau  
