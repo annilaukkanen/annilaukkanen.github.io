@@ -6,46 +6,68 @@ lang: de
 id: news
 ---
 
+### Juni 2016  
 
-### Mai 2015
+#### 19.6. Liederabend der Liedklasse Prof. Elisabeth Werres  
+__15 Uhr, UdK Berlin, Joseph-Joachim-Saal__  
 
-#### 8.5. "Schubert und die Musik der Moderne"
-Ein gemeinsames Konzert mit Liedduos der Universität für Musik Graz  
-__19 Uhr, Hoschschule für Musik "Hanns Eisler" / Studiosaal (Charlottenstr.55)__
+#### 10.-17.6. Internationaler Robert-Schumann-Wettbewerb in Zwickau  
 
-#### 9.5. Eisler Plus - Lieder von Hanns Eisler
+### Mai 2016  
 
-Studiosaal (Charlottenstr.55)  
-__13 Uhr Workshop mit Prof. Eric Schneider__  
-__19 Uhr Konzert im Studiosaal__
+8.5. Konzert  
+Lieder, Arien und Duette von Schumann, Mendelssohn, Brahms und Mozart 
+Maya Blaustein, Sopran  
+Melissa Sofner, Mezzosopran  
+__18 Uhr, Johann-Sebastian-Bach-Kirche, Luzerner Str.__  
 
-#### 30.5. Konzert im ART Salon
-Wir werden zusammen mit Sopran Álfheiður Guðmundsdóttir Lieder von Edvard Grieg spielen.  
-__18 Uhr, Windscheidstr. 17/1, Berlin (Charlottenburg)__
+### Februar 2016  
 
+#### 28.2. Liedkonzert  
+Lieder von Claude Debussy, Erik Satie, Aarre Merikanto und Ilkka Kuusisto  
+__16 Uhr, Muurame Kulturzentrum, Finnland__  
 
-### Juni 2015
+#### 23.2. Liedkonzert  
+Lieder von Claude Debussy, Erik Satie, Aarre Merikanto und Ilkka Kuusisto  
+__19 Uhr, Wäinö Aaltonen -Museum, Turku Finnland__  
 
-#### 3.6. Liederabend der Liedklasse Prof. Wolfram Rieger
-__19 Uhr, Hochschule für Musik "Hanns Eisler" / Studiosaal__
+#### 9.2. Liederabend der Liedklasse Prof. Wolfram Rieger  
+__19 Uhr, HfM Studiosaal (Charlottenstr.55)__  
 
-#### 4.6. Liedkonzert "China trifft Berlin"
-__19 Uhr, Universität der Künste Berlin / Konzertsaal (Hardenbergstr.33)__
+### Januar 2016  
 
+#### 1.-7.1. Lappeenranta -Gesangswettbewerb  
+__Villimiehenkatu 1, Lappeenranta Finnland__  
 
+### Dezember 2015  
 
-#### 20.6. Midsummer Fest
-Lieder aus "12 poems of Emily Dickinson" von Aaron Copland  
-Viktoria Schwindsackl, Mezzosopran  
-__13 Uhr, Hochschule für Musik "Hanns Eisler"__
+#### 4.12. & 5.12. Opera dinner - Abendessen mit Opern  
+3 Gänge Menü mit Opernarien und Duette, 80 Meter unter die Erde  
+Anni Niemelä, Sopran  
+Linard Vrielink, Tenor  
+__18 Uhr, Bergwerkmuseum Tytyri, Finnland__  
 
-### Juli 2015
+#### 8.12. Fest der finnischen Musik  
+Konzert zum 150. Geburtstag von Jean Sibelius  
+Werke von Jean Sibelius, Aulis Sallinen, Ilkka Kuusisto u.a.  
+__20 Uhr Passionskirche (Marheinekeplatz 1, Berlin)__  
 
-#### 14.7. Liederabend der Liedklasse Prof. Wolfram Rieger
-__19 Uhr, Hochschule für Musik "Hanns Eisler" / Studiosaal__
+### November 2015  
 
-#### 19.7. Timo Mustakallio -Gesangwettbewerb mit Anni Niemelä, Sopran
-__Savonlinna Opernfestspiele__
+#### 28.11. Liederabend der Klasse Prof. Wolfram Rieger  
+__19 Uhr HfM Studiosaal (Charlottenstr.55)__  
+
+#### 10.-16.11. "Nadia et Lili Boulanger" -Liedwettbewerb in Paris  
+Mit der Sopranistin Lauren Swan Edwards  
+
+### Oktober 2015  
+
+#### 23.-28.10. Internationaler Giulio-Perotti-Gesangswettbewerb in Ueckermünde  
+
+#### 10.10. Liedkonzert
+Lieder von Grieg, Sibelius, Merikanto, Kuusisto  
+Anni Niemelä, Sopran  
+__19 Uhr, Finnland-Zentrum, Berlin (Schleiermacherstr.24Aa)__  
 
 ### August 2015
 
@@ -54,9 +76,3 @@ __Savonlinna Opernfestspiele__
 Pétur Björnsson, Geiger  
 __21 Uhr, Der Dom von Reykjavík (isl.Dómkirkja), Island__
 
-### Oktober 2015
-
-#### 10.10. Liedkonzert
-Lieder von Grieg, Sibelius, Merikanto, Kuusisto  
-Anni Niemelä, Sopran  
-__19 Uhr, Finnland-Zentrum, Berlin (Schleiermacherstr.24Aa)__
