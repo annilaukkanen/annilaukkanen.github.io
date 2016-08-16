@@ -77,7 +77,7 @@ __7 p.m. Studiosaal (Charlottenstr.55)__
 ### December 2015
 
 #### 4.12. & 5.12. Opera Dinner  
-Three course menu with arias and duets 80 meters under ground in the Tytyri mine museum.
+Three course menu with arias and duets 80 meters under ground in the Tytyri mine museum.  
 Anni Niemelä, soprano  
 Linard Vrielink, tenor  
 __6:30 p.m. Tytyri mine museum, tickets 85 euros__
