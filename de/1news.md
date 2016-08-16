@@ -9,14 +9,14 @@ id: news
 ### Juni 2016  
 
 #### 19.6. Liederabend der Liedklasse Prof. Elisabeth Werres  
-__15 Uhr, UdK Berlin, Joseph-Joachim-Saal__  
+__15 Uhr, Joseph-Joachim-Saal, UdK Berlin__  
 
 #### 10.-17.6. Internationaler Robert-Schumann-Wettbewerb in Zwickau  
 
 ### Mai 2016  
 
 8.5. Konzert  
-Lieder, Arien und Duette von Schumann, Mendelssohn, Brahms und Mozart 
+Lieder, Arien und Duette von Schumann, Mendelssohn, Brahms und Mozart u.a.  
 Maya Blaustein, Sopran  
 Melissa Sofner, Mezzosopran  
 __18 Uhr, Johann-Sebastian-Bach-Kirche, Luzerner Str.__  
