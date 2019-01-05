@@ -21,7 +21,7 @@ _4 p.m., Fontiva Haus Katharina, Leiblstr.14, 14467 Potsdam_
 
 #### 8.12. Festkonzert der Finnischen Musik
 
-Musician living in Berlin will perform music of i.a. Sibelius, Hannikainen, Mustonen and Kilpinen.  
+Musicians living in Berlin will perform music of i.a. Sibelius, Hannikainen, Mustonen and Kilpinen.  
 
 Hans Lydman, baritone  
 Kirsi Tiihonen, soprano  
