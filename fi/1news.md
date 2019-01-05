@@ -61,7 +61,7 @@ Anni Laukkanen, piano
 _klo.20, Kulturkirche Nikodemus, Nansenstr.12-13, 12047 Berliini_  
 _Liput 10/7€, BerlinPass 3€_
 
-### 13.1. Live Music Now - Liedkonsertti
+#### 13.1. Live Music Now - Liedkonsertti
 
 Álfheiður Erla Guðmundsdóttir, sopraano  
 Anni Laukkanen, piano  
