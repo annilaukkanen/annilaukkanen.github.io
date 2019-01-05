@@ -55,7 +55,7 @@ Franz Schubert, Schwanengesang D 957
 Johannes Held, Bariton  
 Anni Laukkanen, Klavier  
 
-_Um 20 Uhr, Kulturkirche Nikodemus, Nansenstr.12-13, 12047 Berlin_
+_Um 20 Uhr, Kulturkirche Nikodemus, Nansenstr.12-13, 12047 Berlin_  
 _Eintritt 10/7€, BerlinPass 3€_  
 
 #### 13.1. Live Music Now - Liederabend  
