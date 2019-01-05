@@ -45,6 +45,8 @@ Klassenkonzert Klasse Prof. Elisabeth Werres
 
 19.12. um 19 Uhr  
 Liederabend im Residenz der Finnischen Botschaftlerin  
-Amanda Marthens, Sopran  
+Aurora Marthens, Sopran  
 Anni Laukkanen, Klavier
+
+###Januar 2019
 
