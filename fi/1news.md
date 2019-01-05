@@ -50,7 +50,7 @@ Anni Laukkanen, piano
 
 ### Tammikuu 2019  
 
-12.1. Lieder nach Gedichten von Heinrich Heine
+#### 12.1. Lieder nach Gedichten von Heinrich Heine
 
 Robert Schumann, Dichterliebe Op.48  
 Franz Schubert, Schwanengesang D 957  
