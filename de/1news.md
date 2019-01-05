@@ -5,7 +5,7 @@ permalink: /de/news/
 lang: de
 id: news
 ---
-### DEZEMBER 2018
+### Dezember 2018
 
 #### 6.12. Live Music Now - Weihnachtskonzert mit Liedern, Duetten und Arien 
 
