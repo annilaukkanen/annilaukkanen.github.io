@@ -8,119 +8,65 @@ id: news
 
 
 
-### Toukokuu 2015
+### Joulukuu 2018
 
-#### 8.5. "Schubert und die Musik der Moderne"
-Musiikkikorkeakoulu Hanns Eislerin ja Grazin Taideyliopiston oppilaiden yhteiskonsertti. Musisoin yhdessä baritoni Changbo Wangin ja tenori Mathias Monrad Møllerin kanssa.  
-__klo.19 Hanns Eisler Studiosaal (Charlottenstr.55)__
+#### 6.12. Live Music Now - Joulukonsertti 
 
-#### 9.5. Eisler Plus - Hanns Eislerin sävellyksiä
+Álfheiður Erla Guðmundsdóttir, sopraano  
+Marine Madelin, sopraano  
+Anni Laukkanen, piano  
 
-Studiosaal (Charlottenstr.55)  
-__klo.13 alkaen Prof. Erik Schneiderin mestarikurssi__  
-__klo.19 konsertti, esiinnyn baritoni Michael Borthin kanssa__  
+_klo.16, Fontiva Haus Katharina, Leiblstr.14, 14467 Potsdam_
 
-#### 30.5. Lied­konsertti
-Esitämme yhdessä sopraano Álfheiður Guðmundsdóttirin kanssa Edvard Griegin lauluja.  
-__klo.18, ART Salon (Windscheidstr. 17/1, Berliini)__
+#### 8.12. Suomalaisen musiikin juhlakonsertti  
 
-### Kesäkuu 2015
+Berliinissä asuvat muusikot esittävät suomalaisten säveltäjien musiikkia, mm. Sibelius, Hannikainen, Mustonen, Kilpinen.
 
-#### 3.6. Wolfram Riegerin Liedluokan konsertti
-__klo.19, Studiosaal__
+Hans Lydman, baritoni 
+Kirsi Tiihonen, soprsano 
+Aurora Marthens, sopraano 
+Eeva Reetta Laiho, piano 
+Anni Laukkanen, piano 
+Terhi Dostal, piano 
 
-#### 4.6. Liedkonsertti "China meets Berlin"
-Esiinnyn yhdessä baritoni Changbo Wangin kanssa  
-__klo.19 Universität der Künste (Hardenbergstr.33)__
+_klo.18, FAZ/Nostitzstr.6-7, 10961 Berliini, Tickets 15/10€_  
 
+#### 10.12. Live Music Now - Joulukonsertti  
 
+Álfheiður Erla Guðmundsdóttir, sopraano  
+Marine Madelin, sopraano  
+Anni Laukkanen, piano  
 
-#### 20.6. Midsummer Fest
-Aaron Coplandin lauluja kokoelmasta 12 Poems of Emily Dickinson  
-mezzosoprano Viktoria Schwindsacklin kanssa  
-__klo.13 Musiikkikorkeakoulu Hanns Eisler__
+_klo.19, Emserplatz 5, 10719 Berliini_  
 
-### Heinäkuu 2015
+#### 16.12. Prof. Elisabeth Werresin laululuokan konsertti  
 
-#### 14.7. Wolfram Riegerin Lied-luokan konsertti
-__klo.19 Studiosaal (Charlottenstr.55)__
+_klo.15, Bundesallee 1-12, 10719 Berliini_  
 
-#### 19.7. Timo Mustakallio -laulukilpailu
-sopraano Anni Niemelän kanssa  
-__Savonlinnan Oopperajuhlat__
+#### 19.12. Liedkonsertti Suomen suurlähettilään residenssissä  
 
-### Elokuu 2015
+Aurora Marthens, sopraano  
+Anni Laukkanen, piano  
 
-#### 22.8. Lied-konsertti "Liedejä pohjoisesta ja aarioita etelästä"
-Álfheiður Erla Guðmundsdóttir ja Kristin Guðmundsdóttir, sopraano  
-Pétur Björnsson, viulu  
-__klo.21 Tuomiokirkko, Reykjavik, Islanti__
+### Tammikuu 2019  
 
-### Lokakuu 2015
+12.1. Lieder nach Gedichten von Heinrich Heine
 
-#### 10.10. Liedkonsertti
-Lauluja mm. Edvard Griegiltä, Jean Sibeliukselta, Aarre Merikannolta ja Ilkka Kuusistolta  
-Anni Niemelä, sopraano  
-__klo.19 Suomi-keskus, Berliini (Schleiermacherstr.24Aa)__
+Robert Schumann, Dichterliebe Op.48  
+Franz Schubert, Schwanengesang D 957  
 
+Johannes Held, baritoni  
+Anni Laukkanen, piano  
 
-#### 23.-28.10. Säestäjänä kansainvälisissä Giulio Perotti-laulukilpailuissa Ueckermündessä
+_klo.20, Kulturkirche Nikodemus, Nansenstr.12-13, 12047 Berliini_  
+_Liput 10/7€, BerlinPass 3€_
 
-### Marraskuu 2015
+### 13.1. Live Music Now - Liedkonsertti
 
-#### 11.-16.11. Nadia et Lili Boulanger Lied-kilpailut Pariisissa  
-Yhdessä sopraano Lauren Swan Edwardsin kanssa
+Álfheiður Erla Guðmundsdóttir, sopraano  
+Anni Laukkanen, piano  
 
-#### 28.11. Wolfram Riegerin Lied-luokan konsertti  
-__klo.19 Studiosaal (Charlottenstr.55)__
-
-### Joulukuu 2015
-
-#### 4.12. ja 5.12 Opera Dinner  
-Alkumaljat sekä kolmen ruokalajin illallinen  
-Anni Niemelä, sopraano  
-Linard Vrielink, tenori  
-__klo.18:30 Tytyrin kaivosmuseo, liput 85 euroa__
-
-#### 8.12. Sibeliuksen 150-vuotisjuhlakonsertti suomalaisen musiikin päivänä  
-__klo.20 Passionskirche, Marheinekeplatz 1, liput 15/10 euroa__
-
-### Tammikuu 2016
-
-#### 1.-6.1. Lappeenrannan laulukilpailut
-__Lappeenrantasali, Villimiehenkatu 1__  
-
-### Helmikuu 2016  
-
-#### 9.2. Wolfram Riegerin Lied-luokan konsertti
-__klo.19 Studiosaal (Charlottenstr.55)__  
-
-#### 23.2. Liedkonsertti
-Säveltäjinä mm. Aarre Merikanto, Claude Debussy, Erik Satie ja Ilkka Kuusisto  
-Anni Niemelä, sopraano  
-__klo.19 Wäinö Aaltosen museo, Turku__
-
-#### 28.2. Liedkonsertti  
-Säveltäjinä mm. Aarre Merikanto, Claude Debussy, Erik Satie ja Ilkka Kuusisto  
-Anni Niemelä, sopraano  
-__klo.16 Muuramen Kulttuurikeskus__  
-
-### Toukokuu 2016  
-
-#### 8.5. Konsertti: Kevään iloa  
-Ohjelmassa liedmusiikkia, aarioita ja duettoja. Säveltäjinä mm. Mendelssohn, Schumann, Brahms, Mozart.  
-Maya Blaustein, sopraano  
-Melissa Sofner, mezzosopraano  
-__klo.18 Johann Sebastian Bach -Kirche, Berliini__  
-
-### Kesäkuu 2016  
-
-#### 10.-17.6. Robert Schumann -laulukilpailut
-Zwickaussa sopraano Lauren Swan Edwardsin kanssa  
-
-#### 19.6. Prof. Elisabeth Werresin laululuokan konsertti  
-Elisabeth Werresin laululuokan oppilaat esiintyvät.  
-__klo.15 Joseph-Joachim-Konzertsaal, Universität der Künste, Berliini__  
+_klo.17, Cajewitz-Stiftung, Schönholzer Str.5, 13187 Berliini_
 
 
 
