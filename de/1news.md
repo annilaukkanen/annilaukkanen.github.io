@@ -22,7 +22,7 @@ _Um 19 Uhr, Spiegelsaal in Clärchens Ballhaus, Auguststr.24, 10117 Berlin, Eint
 
 Mit Iida Antola, Sopran 
 
-#### Dezember 2019
+### Dezember 2019
 
 #### 15.12. Klassenkonzert Prof. Elisabeth Werres
 
