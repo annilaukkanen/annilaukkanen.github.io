@@ -6,7 +6,7 @@ lang: fi
 id: bio
 ---
 
-Diplomipianisti Anni Laukkanen on erikoistunut liediin ja kamarimusiikkiin. Hän on valmistunut maisteriksi erinomaisin arvosanoin niin Sibelius-Akatemian solistiselta linjalta kuin Berliinin Hanns Eisler -Musiikkikorkeakoulusta pääaineenaan liedsäestys. Vuodesta 2016 hän työskentelee prof. Elisabeth Werresin laululuokan säestäjänä Universität der Künste -taideyliopistossa Berliinissä.
+Diplomipianisti Anni Laukkanen on erikoistunut liediin ja kamarimusiikkiin. Hän on valmistunut maisteriksi erinomaisin arvosanoin niin Sibelius-Akatemian solistiselta linjalta kuin Berliinin Hanns Eisler -Musiikkikorkeakoulusta pääaineenaan liedsäestys. Vuodesta 2016 hän työskentelee korrepetiittorina Universität der Künste -taideyliopistossa Berliinissä.
 
 Vuosien varrella Laukkasen pianonsoiton opettajina ovat toimineet mm. Tuija Hakkila, Ilmo Ranta, Juhani Lagerspetz ja Erik T. Tawaststjerna. Liedissä häntä ovat ohjanneet Wolfram Rieger, Eric Schneider, Thomas Quasthoff, Graham Johnson, Robert Holl, Jeff Cohen ja Rudolf Jansen. 
 
