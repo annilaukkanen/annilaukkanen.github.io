@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Hören
-permalink: /de/listen/
-lang: de
+title: Listen
+permalink: /en/listen/
+lang: en
 id: listen
 ---
 
