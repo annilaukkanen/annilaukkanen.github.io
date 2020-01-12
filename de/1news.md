@@ -45,3 +45,14 @@ _Um 16 Uhr, Passionskirche, Marheinekeplatz 1, Berlin-Kreuzberg_
 
 _Um 15 Uhr, Bundesallee 1-12, 10719 Berlin_  
 
+### Februar 2020
+
+#### 13.2. Liederabend mit Amanda Becker, Sopran
+
+Lieder von Robert Schumann, Richard Strauss, Jean Sibelius und Ture Rangström
+
+_Um 18 Uhr, UdK Mierendorffplatz 30_
+
+#### 15.2. Klassenkonzert Prof. Elisabeth Werres 
+
+_Um 15 Uhr, Bundesallee 1, 10719 Berlin_
