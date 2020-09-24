@@ -5,54 +5,62 @@ permalink: /de/news/
 lang: de
 id: news
 ---
-### Oktober 2019
+### Juli 2020
 
-#### 6.10. "Wo ich das Liebste Verlor"
+#### 27.07.-31.07.
 
-Liederabend mit Gedichten von Heinrich Heine, vertont von Franz Schubert und Robert Schumann.  
+HD-Lied Internationaler Helmut Deutsch Online-Meisterkurs
+mit Christian Wagner, Bariton
+Informationen www.hd-lied.net
 
-Johannes Held, Bariton    
+### August 2020
+
+#### 23.08.Liederabend "Serenade" 
+
+Werken von Robert Schumann, Hugo Wolf, Gabriel Fauré, Hugo Wolf
+
+Israel Martins, Bariton   
 Anni Laukkanen, Klavier
 
-_Um 19 Uhr, Spiegelsaal in Clärchens Ballhaus, Auguststr.24, 10117 Berlin, Eintritt 15/10e_ 
+_Um 18 Uhr, Salon l'écritoire, Schönwalder Str.20, 13347 Berlin, Eintritt 15/12e_ 
 
-### November 2019
+### September 2020
 
-#### 12.11. Liederabend: War es ein Traum? Preis Frauen Europas - Herbstsalon 
+#### 13.09. Liederabend: War es ein Traum? 
 
-Lieder voller Liebe, Lust und Leidenschaft von u.a. Sibelius, Saariaho, Deuparc, Debussy
+Lieder von Edvard Grieg, Ture Rangström, Claude Debussy und Jean Sibelius
 
-Iida Antola, Sopran
+Amanda Becker, Sopran
 Anni Laukkanen, Klavier
 
-_um 18:30 Uhr, in dem Veranstaltungsraum der Nordischen Botschaften, Rauchstr.1, 10787 Berlin_
+_Um 18 Uhr, Salon l'écritoire, Schönwalder Str.20, 13347 Berlin, Eintritt 15/12e_ 
 
-#### 20.-24.11. International Liedwettbewerb 's-Hertogenbosch
+### Oktober 2020
 
-Mit Iida Antola, Sopran 
+#### 18.10. Liederabend: War es ein Traum?
 
-### Dezember 2019
+Lieder von Edvard Grieg, Ture Rangström, Claude Debussy und Jean Sibelius
+Eintritt nur mit Reservierung www.lecritoire.de/ 030 28 61 05 39
 
-#### 8.12. Festkonzert der Finnischen Musik
+Amanda Becker, Sopran
+Anni Laukkanen, Klavier
 
-In Berlin lebenden finnischen Künstler spielen finnische Musik. Das ist ein Benefizkonzert für das Finnland-Zentrum und für das Projekt "Mückenhäuschen" für die Obdachlosen in Berlin. 
+_Um 18 Uhr, Salon l'écritoire, Schönwalder Str.20, 13347 Berlin, Eintritt 15/Erm.12e_ 
 
-Musiker: Ulla Piispanen, Timo Klemettinen, Iida Antola, Anni Laukkanen, Hans Lydman, Sami Väänänen, Enna Puhakka, Terhi Dostal.
+### November 2020
 
-_Um 16 Uhr, Passionskirche, Marheinekeplatz 1, Berlin-Kreuzberg_
+#### 22.11. Liederabend mit Amanda Becker, Sopran
 
-#### 15.12. Klassenkonzert Prof. Elisabeth Werres
+Lieder von Debussy, Sibelius, Rangström
 
-_Um 15 Uhr, Bundesallee 1-12, 10719 Berlin_  
+_Um 16 Uhr, Zur Mieze - Katzenmusikcafé, Wilmersdorfer Str.158, 10585 Berlin, Eintritt frei_
 
-### Februar 2020
+### Dezember 2020
 
-#### 13.2. Liederabend mit Amanda Becker, Sopran
+#### 13.12. Liederabend  
 
-Lieder von Robert Schumann, Richard Strauss, Jean Sibelius und Ture Rangström
+mit Christian Wagner, Bariton
+Eintritt nur mit Reservierung www.lecritoire.de/ 030 28 61 05 39  
 
-_Um 18 Uhr, UdK Mierendorffplatz 30_
+_Um 18 Uhr, Salon l'écritoire, Schönwalder Str.20, 13347 Berlin, Eintritt 15/Erm.12e_ 
 
-#### 15.2. Klassenkonzert Prof. Elisabeth Werres 
-
-_Um 15 Uhr, Bundesallee 1, 10719 Berlin_
