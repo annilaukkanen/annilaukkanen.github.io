@@ -7,26 +7,64 @@ id: news
 ---
 
 
+### Heinäkuu 2020
 
-### Lokakuu 2019
+#### 27.07.-31.07.
 
-#### 6.10. Wo ich das Liebste verlor - Liederabend mit Heine Vertonungen  
+HD-Lied Internationaler Helmut Deutsch Online-Meisterkurs
+mit Christian Wagner, Bariton
+Informationen www.hd-lied.net
 
-Robert Schumannin ja Franz Schubertin lauluja Heinrich Heinen runoihin, mm. Der arme Peter, Dichterliebe, Schwanengesang.
+### Elokuu 2020
 
-Johannes Held, baritoni  
-Anni Laukkanen, piano  
+#### 23.08.Liederabend "Serenade" 
 
-_klo.19, Spiegelsaal in Clärchens Ballhaus, Auguststr.24, 10117 Berlin_
+Werken von Robert Schumann, Hugo Wolf, Gabriel Fauré, Hugo Wolf
 
-### Marraskuu 2019  
+Israel Martins, Bariton   
+Anni Laukkanen, Klavier
 
-#### 20.-24.11. International vocal competition 's-Hertogenbosch
+_Um 18 Uhr, Salon l'écritoire, Schönwalder Str.20, 13347 Berlin, Eintritt 15/12e_ 
 
-### Joulukuu 2019
+### Syyskuu 2020
 
-#### 15.12. Prof. Elisabeth Werresin laululuokan konsertti  
+#### 13.09. Liederabend: War es ein Traum? 
 
-_klo.15, Bundesallee 1-12, 10719 Berliini_  
+Lieder von Edvard Grieg, Ture Rangström, Claude Debussy und Jean Sibelius
+
+Amanda Becker, Sopran
+Anni Laukkanen, Klavier
+
+_Um 18 Uhr, Salon l'écritoire, Schönwalder Str.20, 13347 Berlin, Eintritt 15/12e_ 
+
+### Lokakuu 2020
+
+#### 18.10. Liederabend: War es ein Traum?
+
+Lieder von Edvard Grieg, Ture Rangström, Claude Debussy und Jean Sibelius  
+Eintritt nur mit Reservierung www.lecritoire.de/ 030 28 61 05 39
+
+Amanda Becker, Sopran
+Anni Laukkanen, Klavier
+
+_Um 18 Uhr, Salon l'écritoire, Schönwalder Str.20, 13347 Berlin, Eintritt 15/Erm.12e_ 
+
+### Marraskuu 2020
+
+#### 22.11. Liederabend mit Amanda Becker, Sopran
+
+Lieder von Debussy, Sibelius, Rangström
+
+_Um 16 Uhr, Zur Mieze - Katzenmusikcafé, Wilmersdorfer Str.158, 10585 Berlin, Eintritt frei_
+
+### Joulukuu 2020
+
+#### 13.12. Liederabend  
+
+mit Christian Wagner, Bariton  
+Eintritt nur mit Reservierung www.lecritoire.de/ 030 28 61 05 39  
+
+_Um 18 Uhr, Salon l'écritoire, Schönwalder Str.20, 13347 Berlin, Eintritt 15/Erm.12e_ 
+
 
 
