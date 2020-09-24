@@ -39,7 +39,7 @@ _Um 18 Uhr, Salon l'écritoire, Schönwalder Str.20, 13347 Berlin, Eintritt 15/1
 
 #### 18.10. Liederabend: War es ein Traum?
 
-Lieder von Edvard Grieg, Ture Rangström, Claude Debussy und Jean Sibelius
+Lieder von Edvard Grieg, Ture Rangström, Claude Debussy und Jean Sibelius  
 Eintritt nur mit Reservierung www.lecritoire.de/ 030 28 61 05 39
 
 Amanda Becker, Sopran
@@ -59,7 +59,7 @@ _Um 16 Uhr, Zur Mieze - Katzenmusikcafé, Wilmersdorfer Str.158, 10585 Berlin, E
 
 #### 13.12. Liederabend  
 
-mit Christian Wagner, Bariton
+mit Christian Wagner, Bariton  
 Eintritt nur mit Reservierung www.lecritoire.de/ 030 28 61 05 39  
 
 _Um 18 Uhr, Salon l'écritoire, Schönwalder Str.20, 13347 Berlin, Eintritt 15/Erm.12e_ 
