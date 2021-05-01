@@ -6,44 +6,36 @@ lang: de
 id: news
 ---
 
-### November 2020
+CLOSER #Keep on performing - Konzert mit Israel Martins, Bariton: https://www.comecloser.cc/laukkanen  
 
-#### 22.11. ENTFÄLLT Liederabend mit Amanda Becker, Sopran 
+Online-Konzert mit der Sopranistin Madeline Cain: https://youtu.be/Cpdg9f_4OTc  
+Das Konzert wird unterstützt von der #KulturDigital Kampagne von #SoGehtSächsisch. Unsere Videoproduktion ist von Culiner Creative Circle.  
 
-Lieder von Debussy, Sibelius, Rangström
+### Mai 2021 
 
-_Um 16 Uhr, Zur Mieze - Katzenmusikcafé, Wilmersdorfer Str.158, 10585 Berlin, Eintritt frei_
+#### 30.5. Klassenkonzert Prof. Elisabeth Werres
 
-### Dezember 2020
+_Um 15 Uhr, Joseph Joachim Saal, Universität der Künste, Bundesallee 1-12, 10719 Berlin_ 
 
-#### 13.12. Liederabend  
+### Juni 2021
 
-mit Christian Wagner, Bariton  
-Eintritt nur mit Reservierung www.lecritoire.de/ 030 28 61 05 39  
+#### 19.6. "Was soll ich sagen!" - ein Liederabend mit Johannes Held
 
-_Um 18 Uhr, Salon l'écritoire, Schönwalder Str.20, 13347 Berlin, Eintritt 15/Erm.12e_ 
+Lieder von Robert Schumann, Ludwig van Beethoven, Jean Sibelius und Gustav Mahler.  
 
-### Januar 2021  
+_Um 18 Uhr, Schwartzsche Villa, Grunewaldstraße 3, 12165 Berlin, Eintritt 15/12e._ 
 
-#### 16.01. Liederabend  
+### August 2021
 
-mit Christian Wagner, Bariton
+#### 22.8. Konzert mit Julien Ségol, Bassbariton und Bilal Alnemr, Geige  
 
-_Um 20 Uhr, Kulturkirche Nikodemus, Nansenstraße 12/13, 12047 Berlin, Eintritt 10/7e_  
+_Um 18 Uhr, Abbatiale Saint Pierre ès liens, 46150 Les Junies_. 
 
-### Februar 2021  
+### 26.8. Liederabend mit Julien Ségol  
 
-#### 07.02. Klassenkonzert  
+_Um 18 Uhr, Église Saint Pierre, 46250 Goujounac_. 
 
-Klassenkonzert Prof. Elisabeth Werres  
 
-_Um 15 Uhr, Joseph Joachim Saal, Universität der Künste, Bundesallee 1-12, 10719 Berlin_  
-
-#### 20.02. Liederabend: "Winterreise" von Franz Schubert  
-
-mit Johannes Held, Bariton. 
-
-_Um 18 Uhr, Schwartzsche Villa, Grunewaldstraße 3, 12165 Berlin, Eintritt 15/12e._  
 
 
 
