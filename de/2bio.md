@@ -6,7 +6,7 @@ lang: de
 id: bio
 ---
 
-Die Pianistin Anni Laukkanen hat sich auf den Bereich Lied- und Kammermusik spezialisiert. Nach Ihrem Master an der Sibelius-Akademie in Helsinki schloss sie ihr Studium im Mai 2017 im Fach Liedbegleitung bei Prof. Wolfram Rieger an der Hochschule für Musik “Hanns Eisler” ab. Seit 2016 hat sie einen Lehrauftrag für Gesangskorrepetion an der Universität der Künste inne und begleitet die Gesangsklasse von Prof. Elisabeth Werres, Prof. Deborah York und Prof. Robert Gambill.
+Die Pianistin Anni Laukkanen hat sich auf den Bereich Lied- und Kammermusik spezialisiert. Nach Ihrem Master an der Sibelius-Akademie in Helsinki schloss sie ihr Studium im Mai 2017 im Fach Liedbegleitung bei Prof. Wolfram Rieger an der Hochschule für Musik “Hanns Eisler” ab. Seit 2016 hat sie einen Lehrauftrag für Gesangskorrepetition an der Universität der Künste inne und begleitet die Gesangsklasse von Prof. Elisabeth Werres, Prof. Deborah York und Prof. Caitlin Hulcup.
 
 Anni Laukkanen wurde in Jyväskylä, Finnland in einer Musikerfamilie geboren. Ihren ersten Klavierunterricht erhielt sie bereits im Alter von sechs Jahren. 2008 begann ihre studentische Laufbahn als Pianistin an der Sibelius-Akademie in Helsinki, wo sie Klavier bei Juhani Lagerspetz, Erik T. Tawaststjerna, Ilmo Ranta und Tuija Hakkila studierte und schon bald ihre Leidenschaft für Liedgestaltung entdeckte. 2012- 2013 studierte Laukkanen als Erasmus-Austausch-Studentin am Konservatorium in Paris (CNSMDP) bei Claire Desert. Dort war sie ebenfalls Pianistin in der Liedklasse von Jeff Cohen. Vertiefend arbeitete Laukkanen außerdem mit Helmut Deutsch, Graham Johnson, Rudolf Jansen, Burkhard Kehring, Eric Schneider, Dame Felicity Lott, Christiane Iven, Thomas Quasthoff und Robert Holl.
 
