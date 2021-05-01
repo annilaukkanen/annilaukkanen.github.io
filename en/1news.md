@@ -32,6 +32,6 @@ _At 6 p.m., Schwartzsche Villa, Grunewaldstraße 3, 12165 Berlin, Tickets 15/12e
 
 _At 6 p.m., Abbatiale Saint Pierre ès liens, 46150 Les Junies_   
 
-### 26.8. A concert with Julien Ségol  
+#### 26.8. A concert with Julien Ségol, bassbaritone  
 
 _At 6 p.m., Église Saint Pierre, 46250 Goujounac_  
