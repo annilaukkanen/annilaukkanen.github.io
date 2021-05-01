@@ -31,7 +31,7 @@ _Um 18 Uhr, Schwartzsche Villa, Grunewaldstraße 3, 12165 Berlin, Eintritt 15/12
 
 _Um 18 Uhr, Abbatiale Saint Pierre ès liens, 46150 Les Junies_. 
 
-### 26.8. Liederabend mit Julien Ségol  
+#### 26.8. Liederabend mit Julien Ségol, Bassbariton  
 
 _Um 18 Uhr, Église Saint Pierre, 46250 Goujounac_. 
 
