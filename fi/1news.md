@@ -7,42 +7,31 @@ id: news
 ---
 
 
-### Marraskuu 2020
+CLOSER #Keep on performing - A concert with Israel Martins, Baritone: https://www.comecloser.cc/laukkanen  
 
-#### KONSERTTI PERUTTU 22.11. Liederabend mit Amanda Becker, Sopran
+Online concert with Madeline Cain, soprano: https://youtu.be/Cpdg9f_4OTc  
+The concert is sponsored by the #KulturDigital campaign created by #SoGehtSächsisch. Our video production is by Culiner Creative Circle.  
 
-Lieder von Debussy, Sibelius, Rangström
+### May 2021 
 
-_Um 16 Uhr, Zur Mieze - Katzenmusikcafé, Wilmersdorfer Str.158, 10585 Berlin, Eintritt frei_
+#### 30.5. The students of Prof. Elisabeth Werres perform
 
-### Joulukuu 2020
+_At 3 p.m., Joseph Joachim Saal, Universität der Künste, Bundesallee 1-12, 10719 Berlin_ 
 
-#### 13.12. Liederabend  
+### June 2021
 
-mit Christian Wagner, Bariton  
-Eintritt nur mit Reservierung www.lecritoire.de/ 030 28 61 05 39  
+#### 19.6. "Was soll ich sagen!" - a concert with Johannes Held, baritone  
 
-_Um 18 Uhr, Salon l'écritoire, Schönwalder Str.20, 13347 Berlin, Eintritt 15/Erm.12e_ 
+Songs by Robert Schumann, Ludwig van Beethoven, Jean Sibelius and Gustav Mahler.  
 
-### Tammikuu 2021  
+_At 6 p.m., Schwartzsche Villa, Grunewaldstraße 3, 12165 Berlin, Tickets 15/12e_ 
 
-#### 16.01. Liederabend  
+### August 2021
 
-mit Christian Wagner, Bariton
+#### 22.8. Julien Ségol, bassbaritone and Bilal Alnemr, violin  
 
-_Um 20 Uhr, Kulturkirche Nikodemus, Nansenstraße 12/13, 12047 Berlin, Eintritt 10/7e_  
+_At 6 p.m., Abbatiale Saint Pierre ès liens, 46150 Les Junies_   
 
-### Helmikuu 2021  
+### 26.8. A concert with Julien Ségol  
 
-#### 07.02. Klassenkonzert  
-
-Klassenkonzert Prof. Elisabeth Werres  
-
-_Um 15 Uhr, Joseph Joachim Saal, Universität der Künste, Bundesallee 1-12, 10719 Berlin_  
-
-#### 20.02. Liederabend: "Winterreise" von Franz Schubert  
-
-mit Johannes Held, Bariton. 
-
-_Um 18 Uhr, Schwartzsche Villa, Grunewaldstraße 3, 12165 Berlin, Eintritt 15/12e._  
-
+_At 6 p.m., Église Saint Pierre, 46250 Goujounac_  
