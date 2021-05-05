@@ -12,10 +12,15 @@ __Photography by Peter Adamik__{: .photographer}
 <div class="row gal" markdown="1">
 
 ![gallery image](../../images/gallery/edit_Adamik_200417_122944_ADS_0700.jpg)
-![gallery image](../../images/gallery/color2_small.jpg)
+![gallery image](../../images/gallery/edit_Adamik_200417_123540_ADS_0720.jpg)
+
+<div class="row gal" markdown="1">
+
+![gallery image](../../images/gallery/edit_Adamik_200417_124306_ADS_0788-2.jpg)
+![gallery image](../../images/gallery/edit_Adamik_200417_124317_ADS_0795.jpg)
 
 <div class="captionbox"  markdown="1">
-![gallery image](../../images/gallery/stage1_small.jpg){: .whole}
+![gallery image](../../images/gallery/edit_Adamik_200417_123821_ADZ_7198.jpg){: .whole}
 
 <p class="caption">Photo by: Antti Honkala</p>
 
