@@ -6,12 +6,12 @@ lang: de
 id: pictures
 ---
 
-__Photography by Jan Ahlstedt__{: .photographer}
+__Photography by Peter Adamik__{: .photographer}
 
 
 <div class="row gal" markdown="1">
 
-![gallery image](../../images/gallery/color1_small.jpg)
+![gallery image](../../images/gallery/edit_Adamik_200417_122944_ADS_0700.jpg)
 ![gallery image](../../images/gallery/color2_small.jpg)
 
 <div class="captionbox"  markdown="1">
