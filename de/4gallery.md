@@ -22,7 +22,7 @@ __Photography by Peter Adamik__{: .photographer}
 <div class="captionbox"  markdown="1">
 ![gallery image](../../images/gallery/edit_Adamik_200417_123821_ADZ_7198.jpg){: .whole}
 
-<p</p>
+</p>
 
 <div class="captionbox"  markdown="1">
 ![gallery image](../../images/gallery/Anni&Iida.jpg){: .whole}
