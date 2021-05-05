@@ -6,40 +6,32 @@ lang: en
 id: pictures
 ---
 
-__Photography by Jan Ahlstedt__{: .photographer}
+__Photography by Peter Adamik__{: .photographer}
 
 
 <div class="row gal" markdown="1">
 
-![gallery image](../../images/gallery/color1_small.jpg)
-![gallery image](../../images/gallery/color2_small.jpg)
+![gallery image](../../images/gallery/edit_Adamik_200417_122944_ADS_0700.jpg)
+![gallery image](../../images/gallery/edit_Adamik_200417_123540_ADS_0720.jpg)
+
+<div class="row gal" markdown="1">
+
+![gallery image](../../images/gallery/edit_Adamik_200417_124306_ADS_0788-2.jpg)
+![gallery image](../../images/gallery/edit_Adamik_200417_124317_ADS_0795.jpg)
 
 <div class="captionbox"  markdown="1">
-![gallery image](../../images/gallery/stage1_small.jpg){: .whole}
+![gallery image](../../images/gallery/edit_Adamik_200417_123821_ADZ_7198.jpg){: .whole}
 
-<p class="caption">Photo by: Antti Honkala</p>
+<p class="caption">Photo by: Peter Adamik</p>
 
-</div>
+<div class="captionbox"  markdown="1">
+![gallery image](../../images/gallery/Anni&Iida.jpg){: .whole}
 
+<p class="caption">Photo by: Rainer Pfistner</p>
 
-![gallery image](../../images/gallery/bw1_small.jpg)
-![gallery image](../../images/gallery/bw2_small.jpg)
-![gallery image](../../images/gallery/color3_small.jpg)
+<div class="captionbox"  markdown="1">
+![gallery image](../../images/gallery/IMG_9049.jpg){: .whole}
 
-<!-- add more pictures under this line. To make the picture full width add "{: .whole}" to the end of the line, like above -->
-
-
-
-</div>
-<div class="row hi-res" markdown="1">
-
-#### High resolution
-
-[Photo 1](../../images/gallery/color1.jpg)
-[Photo 2](../../images/gallery/color2.jpg)
-[Photo 3](../../images/gallery/bw1.jpg)
-[Photo 4](../../images/gallery/bw2.jpg)
-
+<p class="caption">Photo by: Álfheiður Erla Guðmundsdóttir</p>
 
 </div>
-
