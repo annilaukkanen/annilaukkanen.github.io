@@ -22,7 +22,15 @@ __Photography by Peter Adamik__{: .photographer}
 <div class="captionbox"  markdown="1">
 ![gallery image](../../images/gallery/edit_Adamik_200417_123821_ADZ_7198.jpg){: .whole}
 
-<p class="caption">Photo by: Antti Honkala</p>
+<div class="captionbox"  markdown="1">
+![gallery image](../../images/gallery/Anni&Iida.jpg){: .whole}
+
+<p class="caption">Photo by: Rainer Pfistner</p>
+
+<div class="captionbox"  markdown="1">
+![gallery image](../../images/gallery/IMG_9049.jpg){: .whole}
+
+<p class="caption">Photo by: Álfheiður Erla Guðmundsdóttir</p>
 
 </div>
 
