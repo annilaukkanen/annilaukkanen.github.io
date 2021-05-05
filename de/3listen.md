@@ -7,7 +7,17 @@ id: listen
 ---
 
 
+<div class="video">
+<iframe width="560" height="315" src="https://youtu.be/99OqAnWsw1M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
+<br/>
+
+<div class="video">
+<iframe width="560" height="315" src="https://youtu.be/S6zxmoBuBnc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+<br/>
 
 <div class="video">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/s3EkzvsbVZw?start=17" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
