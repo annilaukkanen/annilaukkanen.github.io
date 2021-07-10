@@ -25,6 +25,19 @@ Lieder von Robert Schumann, Ludwig van Beethoven, Jean Sibelius und Gustav Mahle
 
 _Um 18 Uhr, Schwartzsche Villa, Grunewaldstraße 3, 12165 Berlin, Eintritt 15/12e._ 
 
+### Juli 2021
+
+#### 13.7. Leipzig Underground Opera 
+
+Lasst uns die klassische Musik in den Untergrund bringen! Leipzig Underground Opera präsentiert ein schillerndes Programm mit Musik aus dem frühen 20. Jahrhundert, mit einem Twist auf alte Klassiker. Zu hören sind u.a. Werke von Kurt Weill, Giacomo Puccini und Meredith Wilson.
+Sänger*innen: Madeline Cain, Lissa Meyböhm, Anne-Victoria Ahumada, Ayda-Lisa Agwa, Benjamin Mahns-Mardy. Pianist*innen: Ehsan Mohagheghi Fard, Anni Laukkanen  
+
+_Um 20:30 Uhr, open air auf der Freitreppe vor der Schaubühne Lindenfels, Karl-Heine-Str.50, 04229 Leipzig_  
+
+#### 17.7. Klassenkonzert Prof. Deborah York  
+
+_Um 18 Uhr, Joseph Joachim Saal, Universität der Künste, Bundesallee 1-12, 10719 Berlin_
+
 ### August 2021
 
 #### 22.8. Konzert mit Julien Ségol, Bassbariton und Bilal Alnemr, Geige  
