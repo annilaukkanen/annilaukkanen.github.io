@@ -11,11 +11,6 @@ CLOSER #Keep on performing - Konzert mit Israel Martins, Bariton: https://www.co
 Online-Konzert mit der Sopranistin Madeline Cain: https://youtu.be/Cpdg9f_4OTc  
 Das Konzert wird unterstützt von der #KulturDigital Kampagne von #SoGehtSächsisch. Unsere Videoproduktion ist von Culiner Creative Circle.  
 
-### Mai 2021 
-
-#### 30.5. Klassenkonzert Prof. Elisabeth Werres
-
-_Um 15 Uhr, Joseph Joachim Saal, Universität der Künste, Bundesallee 1-12, 10719 Berlin_ 
 
 ### Juni 2021
 
@@ -48,6 +43,40 @@ _Um 18 Uhr, Abbatiale Saint Pierre ès liens, 46150 Les Junies_.
 
 _Um 18 Uhr, Église Saint Pierre, 46250 Goujounac_. 
 
+### September 2021 
+
+17.-19.09. "Lied the Way" Workshop mit Susan Manoff. 
+
+### Oktober 2021 
+
+#### 30.10. SCHAU21- Freewheeling 
+
+Die jährliche Schau des Studiengangs Modedesign in Kooperation mit der Gesangsklasse Prof. Deborah York.
+Begrenzte Platzzahl: Anmeldung, Tickets auf https://www.eventbrite.com/e/189725041707 
+
+_Um 18, 19 und 20 Uhr, Konzertsaal der UdK Berlin Hardenbergstraße_ 
+
+### November 2021 
+
+#### 12.11. Franz Schubert: Winterreise 
+
+Christian Wagner, Bariton 
+https://www.kulturkirche-nikodemus.berlin/component/jevents/icalrepeat.detail/2021/11/12/897/31/franz-schubert-die-winterreise.html?Itemid=1 
+
+_Um 20 Uhr, Kulturkiche Nikodemus, Nansenstr. 12-13, 12047 Berlin, Eintritt 12/8e._
+
+#### 21.11. Livestream-Konzert "1001 Nacht" 
+
+Alessia Schumacher, Sopran  
+Lieder von u.a. Schubert, Wolf, Ravel, Rimsky-Korsakov.. 
+
+_Um 18 Uhr, Link flogt_
+
+### Dezember 2021 
+
+#### 12.12. Klassenkonzert Prof. Elisabeth Werres 
+
+_Um 15 Uhr, Joseph Joachim Saal, Universität der Künste, Bundesallee 1-12, 10719 Berlin_ 
 
 
 
