@@ -12,12 +12,6 @@ CLOSER #Keep on performing - A concert with Israel Martins, Baritone: https://ww
 Online concert with Madeline Cain, soprano: https://youtu.be/Cpdg9f_4OTc  
 The concert is sponsored by the #KulturDigital campaign created by #SoGehtSächsisch. Our video production is by Culiner Creative Circle.  
 
-### May 2021 
-
-#### 30.5. The students of Prof. Elisabeth Werres perform
-
-_At 3 p.m., Joseph Joachim Saal, Universität der Künste, Bundesallee 1-12, 10719 Berlin_ 
-
 ### June 2021
 
 #### 19.6. "Was soll ich sagen!" - a concert with Johannes Held, baritone  
