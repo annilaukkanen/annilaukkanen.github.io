@@ -70,7 +70,7 @@ _Um 20 Uhr, Kulturkiche Nikodemus, Nansenstr. 12-13, 12047 Berlin, Eintritt 12/8
 Alessia Schumacher, Sopran  
 Lieder von u.a. Schubert, Wolf, Ravel, Rimsky-Korsakov.. 
 
-_Um 18 Uhr, Link flogt_
+_Um 18 Uhr, Link flogt_ 
 
 ### Dezember 2021 
 
@@ -78,6 +78,29 @@ _Um 18 Uhr, Link flogt_
 
 _Um 15 Uhr, Joseph Joachim Saal, Universität der Künste, Bundesallee 1-12, 10719 Berlin_ 
 
+### Januar 2022
 
+#### 8.1. Klassenkonzert Prof. Deborah York 
 
+_Um 11 Uhr, Joseph Joachim Saal, Universität der Künste, Bundesallee 1-12, 10719 Berlin_ 
+
+#### 22.1. Everybody’s looking for something - Von blühenden und platzenden Träumen 
+
+Der inszenierte Liederabend zwischen Banalem und Weltschmerz nimmt die Zuschauer:innen mit auf eine Reise durch die Ambivalenz der Träume und erkundet dabei Kitsch und Kommerz, Illusion und Nostalgie, die Blessuren und den Preis der Träume und den Menschen im Angesicht des Grauens. 
+
+Werken aus dem 19. und 20 Jahrhundert (u.a. Poulenc, Schönberg, Wagner und Korngold)  
+Carolin Strecker, Sopran  
+Nico Lindheimer, Bariton 
+
+_Um 20 Uhr, Kulturkiche Nikodemus, Nansenstr. 12-13, 12047 Berlin, Eintritt 12/8e_ 
+
+### Februar 2022
+
+#### 3.2. Klassenkonzert Prof. Caitlin Hulcup
+
+_Um 19:30 Uhr, Joseph Joachim Saal, Universität der Künste, Bundesallee 1-12, 10719 Berlin_  
+
+#### 6.2. Klassenkonzert Prof. Elisabeth Werres  
+
+_Um 15 Uhr, Joseph Joachim Saal, Universität der Künste, Bundesallee 1-12, 10719 Berlin_  
 
