@@ -75,9 +75,35 @@ _At 6 p.m., Link follows_
 
 ### December 2021 
 
-#### 12.12. Class Prof. Elisabeth Werres performs 
+#### 12.12. Class of Prof. Elisabeth Werres performs 
 
 _At 3 p.m., Joseph Joachim Saal, Universität der Künste, Bundesallee 1-12, 10719 Berlin_ 
+
+### January 2022
+
+#### 8.1. Class of Prof. Deborah York performs
+
+_At 11 a.m., Joseph Joachim Saal, Universität der Künste, Bundesallee 1-12, 10719 Berlin_ 
+
+#### 22.1. Everybody’s looking for something - Von blühenden und platzenden Träumen 
+
+The staged concert with art songs between banality and world-weariness takes the audience on a journey through the ambivalence of dreams and explores kitsch and commerce, illusion and nostalgia, the wounds and the costs of dreams and the human being when faced with horror. Which dreams are worth dreaming? Who is allowed to dream about what?  Does every dream already contain the nightmare? Where may man seek his happiness?  
+
+Works from the 19th and 20th centuries (i.a. Poulenc, Schönberg, Wagner and Korngold)  
+Carolin Strecker, Soprano  
+Nico Lindheimer, Baritone 
+
+_At 8 p.m., Kulturkiche Nikodemus, Nansenstr. 12-13, 12047 Berlin, Eintritt 12/8e_ 
+
+### February 2022
+
+#### 3.2. Singing class of Prof. Caitlin Hulcup performs
+
+_At 7:30 p.m., Joseph Joachim Saal, Universität der Künste, Bundesallee 1-12, 10719 Berlin_  
+
+#### 6.2. Singing class Prof. Elisabeth Werres performs
+
+_At 3 p.m., Joseph Joachim Saal, Universität der Künste, Bundesallee 1-12, 10719 Berlin_  
 
 
 
