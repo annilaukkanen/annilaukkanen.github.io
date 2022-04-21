@@ -12,100 +12,34 @@ CLOSER #Keep on performing - A concert with Israel Martins, Baritone: https://ww
 Online concert with Madeline Cain, soprano: https://youtu.be/Cpdg9f_4OTc  
 The concert is sponsored by the #KulturDigital campaign created by #SoGehtSächsisch. Our video production is by Culiner Creative Circle.  
 
-### June 2021
+### April 2022
 
-#### 19.6. "Was soll ich sagen!" - a concert with Johannes Held, baritone  
+#### 02.04. Nordischer Klang - ein Liederabend mit Amanda Becker, Sopran
 
-Songs by Robert Schumann, Ludwig van Beethoven, Jean Sibelius and Gustav Mahler.  
+Lieder von Jean Sibelius, Ture Rangström, Wilhelm Stenhammar und Wilhelm Peterson-Berger
 
-_At 6 p.m., Schwartzsche Villa, Grunewaldstraße 3, 12165 Berlin, Tickets 15/12e_ 
+_Um 19 Uhr, Schwartzsche Villa, Grunewaldstraße 3, 12165 Berlin, Eintritt 15/12e._ 
 
-### Juli 2021 
+### Mai 2022
 
-#### 13.7. Leipzig Underground Opera
+#### 15.05. Klassenkonzert Prof. Elisabeth Werres 
 
-Let's bring classical music underground! Leipzig Underground Opera presents a dazzling program of music from the early 20th century, with a twist on old classics. The program includes works by Kurt Weill, Giacomo Puccini and Meredith Wilson.  
+_Um 19:30 Uhr, Kammersaal, Universität der Künste, Fasanenstraße 1B, 10623 Berlin_
 
-Singers: Madeline Cain, Lissa Meyböhm, Anne-Victoria Ahumada, Ayda-Lisa Agwa, Benjamin Mahns-Mardy. Pianists: Ehsan Mohagheghi Fard, Anni Laukkanen. 
+#### 20.5. Nordischer Klang - ein Liederabend mit Amanda Becker
 
-_At 8:30 p.m., Schaubühne Lindenfels, Karl-Heine-Str.50, 04229 Leipzig_
+Lieder von Jean Sibelius, Ture Rangström, Wilhelm Stenhammar und Wilhelm Peterson-Berger 
 
-#### 17.7. The students of Prof. Deborah York perform
+Bitte melden Sie sich für Ihren Konzertbesuch auf der Webseite www.thomashoppe.com/piano-nobile-kammersaal durch einen Klick auf  “Eintrittskarten reservieren” an. Barzahlung bei Eintritt. 
 
-_At 6 p.m., Joseph Joachim Saal, Universität der Künste, Bundesallee 1-12, 10719 Berlin_
+_Um 19 Uhr, Piano Nobile Kammersaal, Dönhoffstrasse 39, 10318 Berlin-Karlshorst, Eintritt 25e. inkl.Drinks_ 
 
-### August 2021
+### Juni 2022
 
-#### 22.8. Julien Ségol, bassbaritone and Bilal Alnemr, violin  
+#### 18.6. Ein Liederabend mit Christian Wagner, Bariton
 
-_At 6 p.m., Abbatiale Saint Pierre ès liens, 46150 Les Junies_   
+Lieder von Yrjö Kilpinen, Hugo Wolf und Robert Schumann
 
-#### 26.8. A concert with Julien Ségol, bassbaritone  
-
-_At 6 p.m., Église Saint Pierre, 46250 Goujounac_  
-
-### September 2021 
-
-17.-19.09. "Lied the Way" Workshop with Susan Manoff. 
-
-### October 2021 
-
-#### 30.10. SCHAU21- Freewheeling 
-
-The annual show of the Fashion Design program in cooperation with the vocal class of Prof. Deborah York.
-Limited number of seats: registration, tickets on: https://www.eventbrite.com/e/189725041707 
-
-_At 6, 7 and 8 p.m., Concert hall of UdK Berlin Hardenbergstraße_ 
-
-### November 2021 
-
-#### 12.11. Franz Schubert: Winterreise 
-
-Christian Wagner, Baritone 
-https://www.kulturkirche-nikodemus.berlin/component/jevents/icalrepeat.detail/2021/11/12/897/31/franz-schubert-die-winterreise.html?Itemid=1 
-
-_At 8 p.m., Kulturkiche Nikodemus, Nansenstr. 12-13, 12047 Berlin, Entrance 12/8e._
-
-#### 21.11. Livestream concert "1001 Nights" 
-
-Alessia Schumacher, Soprano 
-Songs of i.a. Schubert, Wolf, Ravel, Rimsky-Korsakov.. 
-
-_At 6 p.m., Link follows_
-
-### December 2021 
-
-#### 12.12. Class of Prof. Elisabeth Werres performs 
-
-_At 3 p.m., Joseph Joachim Saal, Universität der Künste, Bundesallee 1-12, 10719 Berlin_ 
-
-### January 2022
-
-#### 8.1. Class of Prof. Deborah York performs
-
-_At 11 a.m., Joseph Joachim Saal, Universität der Künste, Bundesallee 1-12, 10719 Berlin_ 
-
-#### 22.1. Everybody’s looking for something - Von blühenden und platzenden Träumen 
-
-The staged concert with art songs between banality and world-weariness takes the audience on a journey through the ambivalence of dreams and explores kitsch and commerce, illusion and nostalgia, the wounds and the costs of dreams and the human being when faced with horror. Which dreams are worth dreaming? Who is allowed to dream about what?  Does every dream already contain the nightmare? Where may man seek his happiness?  
-
-Works from the 19th and 20th centuries (i.a. Poulenc, Schönberg, Wagner and Korngold)  
-Carolin Strecker, Soprano  
-Nico Lindheimer, Baritone 
-
-_At 8 p.m., Kulturkiche Nikodemus, Nansenstr. 12-13, 12047 Berlin, Eintritt 12/8e_ 
-
-### February 2022
-
-#### 3.2. Singing class of Prof. Caitlin Hulcup performs
-
-_At 7:30 p.m., Joseph Joachim Saal, Universität der Künste, Bundesallee 1-12, 10719 Berlin_  
-
-#### 6.2. Singing class Prof. Elisabeth Werres performs
-
-_At 3 p.m., Joseph Joachim Saal, Universität der Künste, Bundesallee 1-12, 10719 Berlin_  
-
-
-
+_Um 19 Uhr, Knutson Studios, Ahornstraße 6, 12163 Berlin, Eintritt 15/12e._
 
 
