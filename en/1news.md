@@ -20,7 +20,7 @@ Lieder von Jean Sibelius, Ture Rangström, Wilhelm Stenhammar und Wilhelm Peters
 
 _Um 19 Uhr, Schwartzsche Villa, Grunewaldstraße 3, 12165 Berlin, Eintritt 15/12e._ 
 
-### Mai 2022
+### May 2022
 
 #### 15.05. Klassenkonzert Prof. Elisabeth Werres 
 
@@ -34,12 +34,24 @@ Bitte melden Sie sich für Ihren Konzertbesuch auf der Webseite www.thomashoppe.
 
 _Um 19 Uhr, Piano Nobile Kammersaal, Dönhoffstrasse 39, 10318 Berlin-Karlshorst, Eintritt 25e. inkl.Drinks_ 
 
-### Juni 2022
+### June 2022
 
 #### 18.6. Ein Liederabend mit Christian Wagner, Bariton
 
 Lieder von Yrjö Kilpinen, Hugo Wolf und Robert Schumann
 
 _Um 19 Uhr, Knutson Studios, Ahornstraße 6, 12163 Berlin, Eintritt 15/12e._
+
+### July 2022 
+
+#### 3.7. Klassenkonzert Prof. Caitlin Hulcup 
+
+_Um 19 Uhr, Kammersaal, Universität der Künste, Fasanenstraße 1B, 10623 Berlin_ 
+
+#### 9.7. Liederabend "Mittsommernacht" mit Madeline Cain, Sopran 
+
+Lieder von Claude Debussy, Rebecca Clarke, Arnold Schönberg und Alma Mahler 
+
+_Um 19 Uhr, Alte Schlosserei, Kurt-Eisner-Straße 66, 04275 Leipzig, Eintritt 15/12 Eur._ 
 
 
