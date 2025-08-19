@@ -7,63 +7,45 @@ lang: en
 id: news
 ---
 
-CLOSER #Keep on performing - A concert with Israel Martins, Baritone: https://www.comecloser.cc/laukkanen  
+Live performance on France Musique on 27.4.2025. “Générations France Musique Le Live”, hosted by Clément Rochefort, is a programme that presents a two hour live concert each Saturday featuring high level classical music artists. With Iida Antola, we performed a short programme featuring songs by Henri Duparc, Kaija Saariaho, Hugo Wolf and William Bolcom in the beginning of the podcast.
 
-Online concert with Madeline Cain, soprano: https://youtu.be/Cpdg9f_4OTc  
-The concert is sponsored by the #KulturDigital campaign created by #SoGehtSächsisch. Our video production is by Culiner Creative Circle.  
+You can listen to the podcast here:
 
-### April 2022
+https://www.radiofrance.fr/francemusique/podcasts/generations-france-musique-le-live/trois-duos-de-l-academie-orsay-royaumont-nour-ayadi-louise-acabo-duo-nida-1844670  
 
-#### 02.04. Nordischer Klang - ein Liederabend mit Amanda Becker, Sopran
+Our interpretation of Alban Berg’s Sieben frühe Lieder is now available on YouTube! Production by Culiner Creative Circle. https://youtu.be/NpF5h0LZp7I?si=9B8NUq0Sa1Au9iSQ  
 
-Lieder von Jean Sibelius, Ture Rangström, Wilhelm Stenhammar und Wilhelm Peterson-Berger
+### November 2025
 
-_Um 19 Uhr, Schwartzsche Villa, Grunewaldstraße 3, 12165 Berlin, Eintritt 15/12e._ 
+#### 01.11. and 02.11. Mythos und Melodie - a concert with Tobias Hemminger, flute
 
-### May 2022
+Music of Claude Debussy, Lili Boulanger, Maurice Ravel, André Jolivet and Carl Reinecke  
 
-#### 15.05. Klassenkonzert Prof. Elisabeth Werres 
+_At 4 p.m., Schloß Glienicke, Tickets 25e._  
 
-_Um 19:30 Uhr, Kammersaal, Universität der Künste, Fasanenstraße 1B, 10623 Berlin_
+#### 22.11. L'Amour de loin - a concert with Iida Antola, soprano 
 
-#### 20.5. Nordischer Klang - ein Liederabend mit Amanda Becker
+Our concert is part of the Light of the Lied - art song festival.  
 
-Lieder von Jean Sibelius, Ture Rangström, Wilhelm Stenhammar und Wilhelm Peterson-Berger 
+_At 6 p.m., Helsinki Concervatory of Music_  
 
-Bitte melden Sie sich für Ihren Konzertbesuch auf der Webseite www.thomashoppe.com/piano-nobile-kammersaal durch einen Klick auf  “Eintrittskarten reservieren” an. Barzahlung bei Eintritt. 
+### December 2025  
 
-_Um 19 Uhr, Piano Nobile Kammersaal, Dönhoffstrasse 39, 10318 Berlin-Karlshorst, Eintritt 25e. inkl.Drinks_ 
+#### 01.12. Concert with Joël Terrin, Tenor
 
-### June 2022 
+Songs of Guy Ropartz  
 
-#### 8.6. Nordischer Klang - ein Liederabend mit Amanda Becker 
+_At 7 p.m., Bibliothèque Musicale de Grange-Fleuret, Paris_  
 
-Lieder von Jean Sibelius, Ture Rangström, Wilhelm Stenhammar und Wilhelm Peterson-Berger 
+#### 06.12. Concert with Joël Terrin, Tenor
 
-Bitte melden Sie sich für Ihren Konzertbesuch auf der Webseite www.thomashoppe.com/piano-nobile-kammersaal durch einen Klick auf  “Eintrittskarten reservieren” an. Barzahlung bei Eintritt. 
+Songs of Eric Satie and Francis Poulenc
 
-_Um 19 Uhr, Piano Nobile Kammersaal, Dönhoffstrasse 39, 10318 Berlin-Karlshorst, Eintritt 25e. inkl.Drinks_ 
+_Royaumont Abbey_ 
 
-#### 18.6. Ein Liederabend mit Christian Wagner, Bariton
+#### 07.12. Concert with Lissa Meybohm, Sopran
 
-Lieder von Yrjö Kilpinen, Hugo Wolf und Robert Schumann
+Songs of Edvard Grieg, Gösta Nyström and Benjamin Britten  
 
-_Um 19 Uhr, Knutson Studios, Ahornstraße 6, 12163 Berlin, Eintritt 15/12e._
-
-### July 2022 
-
-#### 3.7. Klassenkonzert Prof. Caitlin Hulcup 
-
-_Um 15 Uhr, Kammersaal, Universität der Künste, Fasanenstraße 1B, 10623 Berlin_ 
-
-#### 9.7. Liederabend "Mittsommernacht" mit Madeline Cain, Sopran 
-
-Lieder von Claude Debussy, Rebecca Clarke, Arnold Schönberg und Alma Mahler 
-
-_Um 19 Uhr, Alte Schlosserei, Kurt-Eisner-Straße 66, 04275 Leipzig, Eintritt 15/12 Eur._ 
-
-#### 10.07. Klassenkonzert Prof. Elisabeth Werres 
-
-_Um 15 Uhr, Joseph-Joachim-Saal, Universität der Künste, Bundesallee 1-12, 10719 Berlin_
-
+_At 2 p.m., Grieg Begegnungstätte, Leipzig_  
 
